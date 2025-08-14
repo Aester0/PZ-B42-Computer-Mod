@@ -1,0 +1,9 @@
+Rosewood
+ <LINE> <LINE>
+ Uma estadia curta em Rosewood Ã© agradÃ¡vel, mas uma longa estadia?
+ Bem, os detentos da famosa prisÃ£o de Knox vÃ£o te dizer: isso nÃ£o Ã© assim tÃ£o divertido!
+ <LINE> <LINE>
+ Idealmente situado geograficamente para facilitar o acesso, Rosewood Ã© um centro comunitÃ¡rio para administraÃ§Ã£o
+ e serviÃ§os comunitÃ¡rios, bem como um centro de encarceramento lÃ­der.
+ O tribunal do condado, um corpo de bombeiros recentemente remodelado e uma instalaÃ§Ã£o de aplicaÃ§Ã£o da lei animada
+ fazendo desta uma das cidades mais importantes da regiÃ£o! Vem visitar hoje!

@@ -1,0 +1,633 @@
+Print_Media_RU = {
+Print_Media_WindowTitle = "Pat Media Debug Brenterface",
+
+Print_Media_TheKentuckyHerald_July9_title = "The National Dispatch - Июль 7, 1993",
+
+Print_Media_TheKentuckyHerald_July9_info = "<type:parent, width:789, height:800>"..
+"<type:texture, width:789, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, width:789, height:95, x:790/2, y:0, pivotX:0.5, pivotY:0, a:0.9, texture:getText("media/ui/printMedia/NewspaperNationalLogo.png")>"..
+"<type:texture, width:670, height:2, x:790/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:265, height:6, x:465, y:390, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:395, y:140, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, font:UIFont.SdfOldBoldItalic>Перекрыт один из районов Кентукки"..
+"<type:text, x:60, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>New York, NY"..
+"<type:text, x:789/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>Июль 7, 1993"..
+"<type:text, x:789-60, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-60"..																																							   
+"<type:text, x:60, y:190, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:207/0.45, textTracking:0.5, textLeading:0.3, font:UIFont.SdfOldRegular>        Вчера Американские военные, не разглашая причин, перекрыли дороги и шоссе в сторону Кентукки, округ Нокс, регион Форт Нокс. Сотни вооруженных военных с полным обмундиро- ванием прибыли вчера рано утром и оцепили периметр отрезав всех людей за пределами очага событий."..
+"<type:text, x:290, y:190, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:207/0.45, textTracking:0.5, textLeading:0.3, font:UIFont.SdfOldRegular>Ходят слухи о военных учениях, но конкретную информацию так и не передают. Уже несколько дней телефонные линии оборваны, из-за чего связь с изолированным районом практически невозможна. На фоне перекрытых бетонными барьерами и проволочной оградой         дорог         ходят"..
+"<type:text, x:525, y:190, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:207/0.45, textTracking:0.5, textLeading:0.3, font:UIFont.SdfOldRegular>спекуляции о том, что скоро будет сооружена более прочная ограда. Несколько местных жителей   доложили   о   том, что их перемещения осуществляются “под дулом пистолета”, однако и сами военные находятся в полной растерянности и стараются проявлять сочувствие.^                        (прод. на стр.2)"..
+"<type:text, x:595, y:407, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldRegular, outlineThick:0.1, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1>"Мой отец застрял там",^ - Очевидец"..
+"<type:text, x:463, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, autoWidth:130/0.41, textTracking:0.5, textLeading:1.9, font:UIFont.SdfOldRegular>                 Луисвилл, Кентукки - Поздно вечером в поне- дельник, в городе Вест Пойнт, Кентукки, медбрат Ларри Стоддарт попрощался с отцом и отправился на но- чную смену в больницу Луисвилла. На утро, после окончания смены, с первыми лучами солнца Ларри отправился домой. Но то, что произошло"..
+"<type:text, x:602, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, autoWidth:130/0.41, textTracking:0.5, textLeading:1.9, font:UIFont.SdfOldRegular>далее не мог предсказать    никто. "Я увидел тех солдат издалека", - сказал Ларри. "Не редкость в Нокс, но затем я заметил, как они выстраивали ограду вдоль всей дороги. Такое только в фильмах про войну можно увидеть. Ну, и потом тот грузовик притормозил  рядом со мной и сказал, что все, дальше нельзя."^        (прод. на стр.3)"..
+"<type:texture, texture:getText("media/ui/printMedia/reporterImage.png"), x:60, y:390, width:390, height:325>"..
+"<type:text, x:60, y:720, r:0, g:0, b:0, a:0.9, scaleX:0.42, scaleY:0.42, font:UIFont.SdfOldRegular>Ларри Стоддарт: "Военные отказываются давать комментарии"",
+
+Print_Media_TheLouisvilleBear_July9_title = "The Louisville Bear - July 9 1993",
+
+Print_Media_TheLouisvilleBear_July9_info = "<type:parent, width:789, height:800>"..
+"<type:texture, width:789, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, width:789, height:130, texture:getText("media/ui/printMedia/LouisvillePostLogo.png")>"..
+"<type:texture, x:5, y:132, width:778, height:660, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getText("media/ui/printMedia/letMeInTEST.png")>"..
+"<type:text, x:30, y:105, scaleX:3, scaleY:3, shadow:true, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, outlineThick:0.2, textLeading:-32, font:UIFont.SdfRobertoSans>Пустите^меня!"..
+"<type:text, x:455, y:490, scaleX:0.7, scaleY:0.7, shadow:true, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, outlineThick:0.7, textLeading:-12, font:UIFont.SdfRobertoSans>    42 - билд и ответ^на главный вопрос"..
+"<type:texture, x:455, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:455, y:590, scaleX:0.65, scaleY:0.65, shadow:true, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, outlineThick:0.7, textLeading:-12, font:UIFont.SdfRobertoSans>    Ликбез по моддингу"..
+"<type:texture, x:455, y:605, width:22, height:22, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:455, y:650, scaleX:0.7, scaleY:0.7, shadow:true, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, outlineThick:0.7, textLeading:-12, font:UIFont.SdfRobertoSans>    Следствие ведут^Блинчики..."..
+"<type:texture, x:455, y:665, width:22, height:22, r:199/255, g:37/255, b:37/255>",
+
+Print_Media_KnoxKnews_July3_title = "Knox Knews - July 3 1993",
+
+Print_Media_KnoxKnews_July3_info = "<type:parent, width:789, height:800>"..
+"<type:texture, width:789, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, width:675, height:100, x:790/2, y:184, pivotX:0.5, pivotY:0.5, a:0.9, texture:getText("media/ui/printMedia/NewspaperNewEraLogo.png")>"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>US,   Japanese^are   optimistic^on trade pact"..
+"<type:text, x:410, y:143, r:225/255.0, g:225/255.0, b:225/255.0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>TUESDAY"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Date"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>PRINTED IN"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>REF"..
+"<type:texture, texture:getText("media/ui/printMedia/DingoChildTest.png"), x:290, y:285, width:389, height:260, scaleX:1.25, scaleY:1.25>"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"..
+"<type:text, x:25, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.^     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."..
+"<type:text, x:295, y:645, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."..
+"<type:text, x:555, y:645, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugas nul aiteron,"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255, a:1>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255, a:1>"..
+"<type:texture, texture:getText("media/ui/printMedia/DingoChildTest.png"), x:261, y:24, width:130, height:97, scaleX:1>"..
+"<type:texture, texture:getText("media/ui/printMedia/DingoChildTest.png"), x:261+380, y:24, width:130, height:97>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>      Brooks & Dunns^surpsided by success"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>      Brooks & Dunns^surpsided by success"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 9"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 9",
+
+Print_Media_KnoxKnews_July4_title = "Knox Knews - July 4 1993",
+
+Print_Media_KnoxKnews_July4_info = "<H1> <CENTER> "NO DANGER TO PUBLIC" AFTER TRUCK CRASH <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> A military truck carrying hazardous waste overturned just north of March Ridge at approximately 3.15pm yesterday. The contents of the truck are not being revealed to the public, but Colonel Niall O'Malley has said,"the materials, though secret for security reasons, would pose little danger even if released into the atmosphere, which they were not." The incident is one of several recent ones involving hazardous materials in the Knox area, with environmental activists criticizing "lax" standards, with toxic chemicals and compounds from poorly stored ammunition becoming a particular... <BR>"..
+"<H1> <CENTER> METEOR SHOWER WOWS LOCALS <BR> <TEXT> An unscheduled meteor shower wowed Knox residents yesterday, as they got a fireworks show a day early. Multiple green streaks were seen in the east just before sunset, with several red ones seen later in the night. NASA has said the objects were probably "no bigger than a golf ball", though the intensity of colour was not usually... <BR>"..
+"<H1> <CENTER> HAPPY INDEPENDENCE DAY FROM KNOX KNEWS! <BR> <TEXT> It's been an honor to serve the people of Knox as editor-in-chief for five consecutive July 4's. We here at Knox Knews hope you and your families have a wonderful day as we remember why America was founded- and dream of what it could one day be. <LINE> All the very best, <LINE> Ian J. McCarrock, Editor-in-chief <BR>",
+
+Print_Media_KnoxKnews_July5_title = "Knox Knews - July 5 1993",
+
+Print_Media_KnoxKnews_July5_info = "<H1> <CENTER> "BEST INDEPENDENCE DAY EVER!" <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> Despite disruptions of plans caused by the ongoing telephone outage in Knox, yesterday saw thousands of residents hold family barbeques, parties and fireworks as they celebrated America's 217th birthday together. An elaborate parade of twenty decorated floats passed through Knox on the way to Louisville, with local elementary school student Miss Una Turner portraying Lady Liberty in the lead car. A special event was held at the drag racing circuit, with famous OSCC driver Cruz Dylan among the on-lookers - though the champion racer could not be persuaded to go for a drive himself, as he is still recovering after a crash. <LINE><LINE> In the evening, fireworks of red, white, and blue lit up the evening sky and glasses were raised to America, and the founding fathers who gained our nation her freedom... <BR>"..
+"<H1> <CENTER> FOUL SMELL MAY BE "NATURAL PROCESS" <BR> <TEXT> A local naturalist has theorised that the foul smell In the Knox region is emanating from the Ohio River, and may be caused by the emissions of an invading algae taking root in parts of the river. Joan Delahunt, a geography teacher, noticed pieces of brown seaweed washed up on the river bank several days ago. "It reminded me of something I'd seen during my time as a researcher in South America," said Ms. Delahunt. "The plant grows where there is an overabundance of nitrogen, which... <BR>"..
+"<H1> <CENTER> SPATE OF DOG ATTACKS "WORRISOME" - Sheriff <BR> <TEXT> Sheriff John Carroll remembers every time he took his pistol from its holster in the line of duty: once in 1979 when he pointed it at a drunk man trying to hijack a cement truck (the man immediately complied), and three times in the past week - all because of vicious dogs. "I was called out to a farmhouse. I won't say who it was for privacy, but they'd called because the husband had been bit by a wild dog. I found the dog when I got there, big and black. He saw me, and I saw the foam around his... <BR>",
+
+Print_Media_KnoxKnews_July6_title = "Knox Knews - July 6 1993",
+
+Print_Media_KnoxKnews_July6_info = "<H1> MYSTERIOUS ILLNESS STRIKES LOCALS <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> An unidentified illness has struck several residents in the Muldraugh region, with symptoms of fever, nausea, and severe anxiety. One local doctor, who wished to remain anonymous, claims that the Center for Disease Control is sending personnel to investigate, though the CDC refused to comment. It is understood that several of the afflicted have suffered bite wounds, and the doctor theorises that a rabies outbreak may be in progress. Rabies was recently reported in the region among the raccoon population, and... <BR>"..
+"<H1> <CENTER> KNOX PHONE LINES STILL "DOWN FOR MAINTENANCE" <BR> <TEXT> Knox Telecommunications has apologised to customers for an 'unscheduled' maintenance period which has seen phone lines go down entirely within the area for almost a week. The fault is due to an 'overloading of a central switchboard', according to KT engineer Derek Davin. 'It could be days, but we're working as fast as we can.' Cell phone reception has also been disrupted... <BR>"..
+"<H1> <CENTER> SPIFFO'S "SORRY" AFTER SAUCE MIX-UP <BR> <TEXT> The national headquarters of the Spiffo's fast food chain has apologised after Spiffo's Secret Sauce left local burger consumers with a bad taste in their mouths. Spiffo's Head of Logistics Paula Impton has said the mix-up occurred when a batch of experimental sauce was accidentally redirected to the Knox area. "We experiment with our ingredients every day. Many of these experiments are failures but, in the words of Thomas Edison... <BR>",
+
+Print_Media_LouisvilleSunTimes_July3_title = "Louisville Sun-Times - July 13 1993",
+
+Print_Media_LouisvilleSunTimes_July3_info = "<H1> 'KNOX EVENT IS CONTAINED' - OFFICIALS <LINE><H2> <CENTRE> Top brass move to reassure public after gruesome picture emerges. <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> The President, along with CDC and military officials, moved swiftly to reassure the public that the 'Knox Virus' remains isolated within the Exclusion Zone. Yesterday, a photograph claimed to be of a person infected with the virus emerged in the media, causing panic among the public, and confusion about its veracity. The photograph, shown here censored, shows a man with grievous injuries to one arm, standing in a street filled with bloodied bodies. A dripfeed of information from military insiders, along with short-range radio messages from those trapped within the Zone, agree that the pictures are likely not hoaxes, and similar sights are... <BR>"..
+"<H1> <CENTER> EUROPEAN COMMUNITY ADVISES BORDER CLOSURES <BR> <TEXT> The EC has advised all its member countries to close their internal and external borders as a precaution against the spread of the Knox Virus. The advisory comes after the WHO's advice on July 11 that all non-military or medical flights be grounded worldwide. It's understood that all EC member states will comply with the advice, though the United Kingdom has... <BR>"..
+"<H1> <CENTER> EARTHQUAKE STRIKES JAPAN <BR> <TEXT> A strong earthquake struck off the coast of Japan at approximately 10.15 p.m. local time (9.15 a.m. Eastern) yesterday. The earthquake, estimated at 7.5 on the Richter scale, created a tsunami which inundated parts of Okushiri on the island of Hokkaido and struck parts of southeastern Russia. Hundreds of people are feared... <BR>",
+
+Print_Media_LouisvilleSunTimes_July4_title = "Louisville Sun-Times - July 14 1993",
+
+Print_Media_LouisvilleSunTimes_July4_info = "<H1> 'NO NEED FOR FURTHER PANIC' - MCGREW <LINE> <H2> <CENTRE> Experts say virus lethal and frightening, but likely contained, as President leaves Washington. <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE><TEXT> General John McGrew yesterday released a statement admitting that the 'Knox Virus' is degenerative, but that its spread is contained within the 'Event Boundary' which now encompasses hundreds of square miles of the state of Kentucky. The unprecedented military operation, which began on July 6, has seen tens of thousands of Americans confined behind razor wire fences and military barricades, with little communication with the outside world possible. <LINE><LINE> A photograph that emerged two days ago of an infected, dismembered, but still living, man was confirmed genuine by officials, but the CDC has released a statement saying that though the virus seems to cause great violence between sufferers, its method of transmission - fluid contact - is an inefficient way of spreading. <BR> Officials have also denied that the President has left Washington D.C. for an undisclosed location due to the virus, saying his absence concerns a private family issue. Republicans in Congress have again denounced the Event Boundary as a grave attack on civil rights, and some Democrats have joined the call for screenings of the sick and evacuations to be made from... <BR>"..
+"<H1> <CENTER> WHO HQ CLOSES DUE TO THREATS <BR> <TEXT> The World Health Organisation has closed its headquarters in Geneva, Switzerland due to multiple bomb and death threats against its staff. Swiss police advised the WHO to evacuate the building following threats and protests in the wake of the WHO's strong advice for all flights worldwide to be grounded due to the Knox Virus... <BR>"..
+"<H1> <CENTER> NO EVENT CANCELLATIONS - MAYOR <BR> <TEXT> The Mayor of Louisville has confirmed that no events, including the ongoing Louisville Music Festival, are being cancelled due to the Knox situation, though the situation is being 'closely monitored'. The confirmation comes in spite of the military... <BR>",
+
+Print_Media_LouisvilleSunTimes_July5_title = "Louisville Sun-Times - July 15 1993",
+
+Print_Media_LouisvilleSunTimes_July5_info = "<H1> <CENTER> KNOX BOUNDARY BREACHED <LINE> <H2> <CENTRE> Gunfire and mass casualties reported as horde of the infected overwhelm defenses. <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> The military boundary south of Louisville has been breached by a crowd of hundreds of people, many infected with the Knox Virus, despite tear gas and, reportedly, a shoot-to-kill policy being put into place by police and military authorities. The noise of gunfire and explosions attracted more of the infected to the site. It's understood the Knox Boundary is moving northward towards Louisville as the military pulls back, though communications are sparse as networks struggled with overwhelming demand. <LINE><LINE>The unprecedented violence comes nine days after the Knox Exclusion Zone was erected by the military to contain a novel virus that has arisen in the Muldraugh area. Despite the violence, Governor Cal Fairweather, already a critic of the Knox Boundary, denounced what he termed 'the jaw-dropping overreach' of the federal government. 'I've heard people say they're going to move the Boundary all the way up to the Ohio. Well, they're gonna have to get through me first. <BR>"..
+"<H1> <CENTER> HOLY SITES CLOSE <BR> <TEXT> Two of the world's holiest sites are being closed to outsiders due to the threat of the Knox virus. The Vatican City's Swiss Guard has ordered all visitors to the city to evacuate, despite the protests of the Pope. The Pontiff has called for 'forgiveness and prayers' as the citadel, located in the heart of Rome, closes its doors to pilgrims. <LINE><LINE>Saudi Arabia, which closed its borders indefinitely on July 13, has also confirmed that Mecca, Islam's holiest city, will be evacuated, and... <BR>"..
+"<H1> <CENTER> OP-ED: WORLD'S EYES ON THE EXCLUSION ZONE <BR> <TEXT> I'll admit I've been somewhat cynical about the reaction of the world to the Knox Virus - we in Louisville are right next door, and we're fine! And yet, yesterday something made me take pause. I was on the way to the Greene's down the street when I heard some reporters speaking to each other. I don't have a great ear for languages, but I think one was French, one Chinese, and one from somewhere in Africa. All three were debating, with varying quality of English, just how to pronounce 'Muldraugh'... <BR>",
+
+Print_Media_LouisvilleSunTimes_July6_title = "Louisville Sun-Times - July 16 1993",
+
+Print_Media_LouisvilleSunTimes_July6_info = "<H1> KNOX INFECTION SPREADING THROUGH THE AIR <LINE> <H2> <CENTRE> Panic spreads through Louisville and nation. <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> This special edition of our newspaper is being made available for free. <LINE><LINE>The Louisville Modern Times would like to apologise to all its readers for its journalistic failures concerning the Knox Event. We should have seen through the lies of the officials. We didn't. <LINE><LINE>Don't be naive, but try not to panic. The virus and the infected are on the way to Louisville. Several of us here are already running fevers. Help your elderly and vulnerable neighbours. Stock up on food if you can do so safely. Avoid crowds at all costs. Have a baseball bat or other weapon ready and don't be afraid to attack the infected if you have to. It's the only way to stop them. Barricade your windows and listen to your radio. <LINE><LINE>A new world is coming, and most of us won't live to see it.<LINE><LINE>Don't believe otherwise. God have mercy on us. <BR>"..
+"<H1> <CENTER> VIRUS DETECTED WORLDWIDE <BR> <TEXT> Despite the closing of international borders, outbreaks of the Knox virus are being reported in multiple countries in Europe, Africa, and Asia. The cause of the sudden spread is unknown, and the hopes of finding a cure are rapidly receding... <BR>"..
+"<H1> <CENTER> CONGRESS EVACUATES <BR> <TEXT> Despite the total failure of our political class to help the citizens of America, members of Congress and their families have been evacuated from Washington D.C., reportedly to the FEMA facility at Mount Weather in Virginia. A military cordon has been set up around the area as locals were refused entry to... <BR>",
+
+Print_Media_LouisvilleDispatch_July7_title = "Louisville Dispatch - July 7 1993",
+
+Print_Media_LouisvilleDispatch_July7_info = "<H1> <CENTER> MILITARY BLOCKADE KNOX COUNTRY <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> The US military yesterday blocked roads and highways leading to and from the area of Kentucky known as "Knox Country", without declaring the reason for doing so. Hundreds of military personnel, fully armed and in battle gear, arrived in the area early yesterday morning, trapping thousands of civilians within the cordon, as well as displacing hundreds more who live outside the boundary. Traffic heading both ways on Route 31W is being stopped from entering or leaving a large area south of Louisville, trapping thousands of residents and causing anxiety and turmoil. There are reports of more barricades being put into place near Brandenburg... <BR>"..
+"<H1> <CENTER> LOUISVILLE BALLET WOWS WITH ASTOUNDING "THE SLEEPING BEAUTY" <BR> <TEXT> Audiences at the Romero Center for the Performing Arts were wowed by another world-class performance of Tchaikovsky's "The Sleeping Beauty". Under the direction of Gregory Sands (one of the most sought-after ballet conductors in the world), and featuring astounding costumes by Anna Harrington, along... <BR>"..
+"<H1> <CENTER> OP-ED: KNOX OBFUSCATION WILL FUEL PARANOIA <BR> <TEXT> The military's move to blockade a large area of Kentucky - rumoured to be due to some sort of toxic waste leak - along with the military's total refusal to answer questions about what is going on, carries eerie echoes of recent stand-offs between federal authorities and various armed groups. While those groups in general were almost certainly hostile and dangerous, the new operation could cast doubt over previous... <BR>",
+
+Print_Media_LouisvilleDispatch_July13_title = "Louisville Dispatch - July 13 1993",
+
+Print_Media_LouisvilleDispatch_July13_info = "<H1> <CENTER> "RELAX AND KEEPING SHOPPING" - MAYOR <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> Panic rippled through the streets of Louisville as a gruesome picture of an infected person within the Exclusion Zone emerged yesterday, but the Mayor swiftly urged everyone to "relax and keep shopping". Remarkably, locals seem to be following his advice, with stores and schools open, and sporting events continuing, though with smaller attendances than usual. <LINE><LINE>The virus is frightening, but it doesn't spread quickly," said one local business owner. "I'm no doctor, but the government is doing the right thing by... <BR>"..
+"<H1> <CENTER> ASHLING DWYER PAINTINGS DRAW CROWDS <BR> <TEXT> The Art Gallery of Louisville's exhibit of paintings by Irish artist Ashling Dwyer has drawn large crowds, despite the Knox situation. Dwyer, winner of the 1992 Siu-Chong Prize, was present on launch night to unveil a pair of new paintings, "Pink Curtain" and "Yellow, Yellow, Yellow". Both drew immediate applause and acclaim for their use of bold color and... <BR>"..
+"<H1> <CENTER> OP-ED: EERIE CALM PREVAILS, BUT FOR HOW LONG? <BR> <TEXT> Despite riots and unrest in other cities, the streets of Louisville are packed with smiling families and good-natured Kentucky chat. And yet, beneath the light facades, worry grows. Authorities now say that the Knox Virus, though deadly, spreads only through fluid contact, drawing comparisons to ebola outbreaks, which were eventually contained. But there's never been an ebola outbreak just a few miles south of... <BR>",
+
+Print_Media_MuldraughMessenger_June29_title = "Muldraugh Messenger - June 29 1993",
+
+Print_Media_MuldraughMessenger_June29_info = "<H1> <CENTER> HOUSES BURGLARIZED IN BROAD DAYLIGHT <BR> <TEXT> A spate of burglaries has left some Muldraugh residents fearful for their safety, though police say they have some "definite leads". The burglaries, believed to have a single perpetrator, occurred in unoccupied houses in broad daylight, with a window being broken to gain entry. Oddly, valuables were left untouched, with the main target of the thief being canned food, large bags, and low-cost tools, leading police to suspect a survivalist of limited means. The investigation... <BR>"..
+"<H1> <CENTER> SPIFFO'S WORKERS JOIN UNION <BR> <TEXT> Local workers of the Spiffo's fast food restaurant chain have created a trade union. Kelly Clampton, a local employee and organiser of the new union, said her "hand was forced" by a toxic culture of overwork and "wage theft" by the company. Spiffo's has been the subject of a recent Congressional investigation into alleged union-busting practices, along with whistleblower claims about the beef used in its burgers. The corporation has not yet... <BR>"..
+"<H1> <CENTER> LOCAL BOYS PLAN SWIM FOR VETERANS <BR> <TEXT> A local group of teenage boys are planning an Ohio river swim to raise money for our brave veterans. The boys were helped in the planning of the event by their social studies teacher, Mr. Vincent Osato. "I was teaching the boys about the veterans who had been failed and forgotten after Vietnam," said Mr. Osato. "Some of their loved ones had served there, and they got talking about... <BR>",
+
+Print_Media_MuldraughMessenger_July6_title = "Muldraugh Messenger - July 6 1993",
+
+Print_Media_MuldraughMessenger_July6_info = "<H1> <CENTER> ILLNESS SPREADS THROUGH KNOX <BR> <TEXT> A mild but persistent illness is spreading through Muldraugh and Knox, with hundreds of people apparently falling sick. Local doctors say patients are presenting with symptoms of fever, nausea, anxiety, coughing, and extreme thirst. "We don't want to cause a panic," said one doctor. "In fact, while there are obviously some genuine cases, there may be an element of mass hysteria to the sudden spread of this "virus"..."<BR>"..
+"<H1> <CENTER> MRS. PALOMA'S BAKING WOWS ALL <BR> <TEXT> Muldraugh's Ladies Committee has given the gold medal to Mrs. Gene Paloma for the fourth year running at their annual baking contest. Mrs. Paloma, sadly recently widowed, served up a mouthwatering butter cake, and the judges were bowled over by her cornbread... <BR>"..
+"<H1> <CENTER> PHONE LINES STILL DOWN <BR> <TEXT> Knox Telecommunications has said that Muldraugh's phone lines will be down until at least the weekend following an 'unprecedented outage' which has already affected the entirety of the county for several days. Both landline and cell phone coverage has been entirely cut off, throwing local households and businesses into disarray... <BR>",
+
+Print_Media_TheKentuckyHerald_July13_title = "The Kentucky Herald - July 13 1993",
+
+Print_Media_TheKentuckyHerald_July13_info = "<IMAGECENTRE:media/textures/printMedia/TheKentuckyHerald.png> <LINE> <H1> ALIVE OR DEAD? <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <H2> - Knox Virus turns infected into 'WALKING CORPSES' that HUNT the living <LINE><LINE>- Knox Exclusion Zone WIDENED <LINE><LINE>- Nationwide CURFEW as unrest continues <BR>",
+
+Print_Media_TheKentuckyHerald_July14_title = "The Kentucky Herald - July 14 1993",
+
+Print_Media_TheKentuckyHerald_July14_info = "<IMAGECENTRE:media/textures/printMedia/TheKentuckyHerald.png> <LINE> <H1> <CENTER> PRESIDENT LEAVES WASHINGTON - <LINE> "YOU'RE ON YOUR OWN!" <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <H2> - Knox Virus spreads through FLUID contact <LINE><LINE>- Military within Exclusion Zone RELEASE held civilians <LINE><LINE>- Media signals DISRUPTED by interference <BR>",
+
+Print_Media_TheKentuckyHerald_July15_title = "The Kentucky Herald - July 15 1993",
+
+Print_Media_TheKentuckyHerald_July15_info = "<IMAGECENTRE:media/textures/printMedia/TheKentuckyHerald.png> <LINE> <H1> <CENTER> INFECTED BREACH EXCLUSION ZONE BARRIER <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE>  <H2> - THOUSANDS of infected people, their minds controlled by the KNOX VIRUS, breach military fence, barricades <LINE><LINE> - PANIC as civilians FLEE Louisville <LINE><LINE>- "We are STILL safe" - Mayor <BR>",
+
+Print_Media_TheKentuckyHerald_July16_title = "The Kentucky Herald - July 16 1993",
+
+Print_Media_TheKentuckyHerald_July16_info = "<IMAGECENTRE:media/textures/printMedia/TheKentuckyHerald.png> <LINE> <H1> <CENTER> IT'S EVERYWHERE! <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE>  <H2> - Military RETREATS from Knox Zone <LINE><LINE>- Virus spreading WITHOUT fluid contact <LINE><LINE>- BARRICADE your WINDOWS, LOAD your GUNS - and PRAY! <BR>",
+
+Print_Media_TheLouisvilleBear_July12_title = "The Louisville Bear - July 12 1993",
+
+Print_Media_TheLouisvilleBear_July12_info = "<H1> <CENTER> 200 LSU STUDENTS TRAPPED IN ZONE <BR> <TEXT> The President of LSU has confirmed that up to 200 LSU students may be trapped with the military's "Knox Exclusion Zone" south of Louisville. All contact with the area has been cut-off since July 6, when a military cordon was set up overnight. Worried friends and family members have been denied access to information about the welfare and location of the students. <LINE><LINE> Meanwhile, the government has reported that laboratories are being set up within the zone to study the "Knox Virus" which has caused the lockdown, and that the Exclusion Zone itself is being expanded, potentally displacing or trapping thousands more... <BR>"..
+"<H1> <CENTER> RECORD ATTENDANCE AT SUMMER COURSES <BR> <TEXT> LSU is welcoming a record number of students to its summer courses for 1993. Healthcare, Accountancy, and Music History are three of the most popular choices, with students ranging in age from eighteen to seventy, and in location from Kentucky to Kazakhstan. With the shutdown of international travel, foreign students are being looked after, and reportedly are all in good spirits as... <BR>"..
+"<H1> <CENTER> THE SCORES <BR><H2>Basketball <BR> <TEXT> Reds 101 - 108 Bears <LINE><LINE> University 111 - 107 Bears <LINE><LINE> Bolts 122 - Reds 104 <LINE><LINE> <H2>Baseball <BR> <TEXT> Kentucky 4 - 1 Polygons <LINE><LINE> Birches 2 - 3 Brookers <LINE><LINE> <H2>Football <BR> <BR> <TEXT> Scavengers 19 - 26 Las Vegas <LINE><LINE> Kansas 23 - 19 Cincinnati <BR>",
+
+Print_Media_TheKnoxFrontline_May1993_title = "The Knox Frontline - May 1993",
+
+Print_Media_TheKnoxFrontline_May1993_info = "<H1> <CENTER> "GULF WAR SYNDROME" CASES INCREASE <BR> <TEXT> A sharp uptick in Gulf War Syndrome cases has been recorded nationwide following new diagnosis guidelines set out by the Department of Veteran Affairs. Research into the condition is still on-going, but acute and chronic symptoms include fatigue, headaches, memory problems and muscle pain. The syndrome seemingly only affects veterans who served in the Gulf War, leading experts to study whether unique battlefield conditions are the cause. These range from the smoke from oil well fires set by the Iraqis, depleted uranium widely used in munitions, the specific stresses of the combat zone, or even exposure to a low level nerve agent or biological weapon... <BR>"..
+"<H1> <CENTER> VR TRAINING "SHOULD BE LIMITED" <BR> <TEXT> A retired general has said virtual reality training for military personnel should be limited to gaining familiarity with equipment and technology. "A computer can simulate what it's like to fly a fighter jet, or load and fire an artillery piece," said Ret. Gen. Keith N. Tanner, "but it can never properly simulate infantry-level battle conditions, and certainly can never capture the infinity of variables that comes with fighting a human adversary." It comes after the Department of Defense announced a $600 million research program into the... <BR>"..
+"<H1> <CENTER> OP-ED: ILL-DEFINED MISSION MAY SPELL DISASTER IN SOMALIA <BR> <TEXT> Despite the continuing handover of leadership from US to UN forces in Somalia, the main problem remains: what is the final goal? What began last year as a simple humanitarian mission to feed a starving population has begun to show indelible signs of "mission creep", with increasingly aggressive military battles with ever-shifting objectives being fought. The US expected a simple mission, with Somalis grateful for the help. What they found is instead a complex system of clans, tribes, and associated warlords each fighting for influence after the fall of Barre... <BR>",
+
+Print_Media_TheKnoxFrontline_June1993_title = "The Knox Frontline - June 1993",
+
+Print_Media_TheKnoxFrontline_June1993_info = "<H1> <CENTER> GENERAL JIMALE UN'S MOST WANTED MAN <BR> <TEXT> The UN has named Somalia's General Jimale as their first "Most Wanted Man" following the killings of twenty-four peacekeepers in Moghadishu by Jimale's forces, the Somali United Alliance. The UN peacekeepers were attacked while trying to inspect a weapons site near a radio station known for broadcasting anti-UN messages. An incensed crowd, fearful that the inspection mission was a cover-up for an attempt to shut down the station, apparently began shouting and hurling stones, before armed soldiers arrived and... <BR>"..
+"<H1> <CENTER> REFORGER 93: RESULTS OF THE FINAL BATTLE <BR> <TEXT> With the fall of the Soviet Union, the annual Reforger war game, simulating an outbreak of hostilities between NATO and the Warsaw Pact in Germany, has become an exercise in alternate history. Still, 7,000 personnel participated in what is to be the final Reforger exercise last month, providing valuable training experience against future adversaries. Unlike previous years, personnel were drawn solely from Germany based units, namely the 1st Armored Division, Ansbach, and 3rd Infantry Division (Mech.), Wurzburg. The exercise took place in the city of Kaiserslautern... <BR>"..
+"<H1> <CENTER> OP-ED: IT'S TIME TO DO MORE IN COLOMBIA <BR> <TEXT> With notorious cartel leader Juan Sanchez on the run once more in Colombia, it's time for the US to learn from the past and intervene strongly before what remains of the nation's democracy is destroyed. Despite being hunted by every police force in the nation, Sanchez has allies in every town and village who believe his lies about wanting what's best for Colombia. We can't blame the nation's poor peasants for being unable to see past the piles of filthy narco-dollars that can be found in every corner of the country, but without swift and strong action from the US, Sanchez will surely find a way to plot yet more chaos, and regain power for himself and his cartel... <BR>",
+
+Print_Media_BrandenburgBugle_June29_title = "Brandenburg Bugle - June 29 1993",
+
+Print_Media_BrandenburgBugle_June29_info = "<H1> <CENTER> DISASTER FUNDS "ON THE WAY" - GOVERNOR <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE>  <TEXT> State Governor Fairweather has reassured Brandenburg's mayor that the long-promised federal funds for the rebuilding of Brandenburg are "on the way". Despite an overwhelming early response following the tornado which saw ample food and shelter provided for residents in the aftermath, promised federal funds for the rebuilding have still not arrived, with buildings still patched up with pieces of wood, and major damage to infrastructure still evident... <BR>"..
+"<H1> <CENTER> EKRON'S OLDEST RESIDENT'S SECRET TO LONG LIFE <BR> <TEXT> Full of lively talk and the occasional old song, Nancy Hume could be mistaken for a spry 70 year old. "People get genuinely shocked when I tell them," says Nancy. "I've even been called a liar on occasion, until I got out my birth certificate." Nancy Hume is 103 years old, and by far Ekron's oldest resident. "I outlived all my friends," she says, then adds with a twinkle in her eye, "but I outlived all my enemies too, so it's not all bad." So what's Nancy's secret to long life? "Three simple things. A glass of bourbon with your supper, get to bed before ten, and never get involved with men. Never!" ... <BR>"..
+"<H1> <CENTER> MAN DIES AFTER EATING 60 HOT DOGS <BR> <TEXT> The 16th Annual Irvington Hot Dog Eating competition, won by Mr. Bolton Jupiter, had a tragic coda as Mr. Jupiter passed away shortly after winning. "He held up the trophy," said an onlooker, "a little smiling frankenfurter with shades. Then he just keeled over onto a bucket of mayonnaise. We thought he was joking at first..." Mr. Jupiter, well known for his slim frame despite his incredible appetite, was a local favorite among residents. "It'll be a less happy place without old Bolton around," said a friend, "but at least he died doing what he loved..." <BR>",
+
+
+Print_Media_BrandenburgBugle_July2_title = "Brandenburg Bugle - July 2 1993",
+
+Print_Media_BrandenburgBugle_July2_info = "<H1> <CENTER> WOMAN "LUCKY TO BE ALIVE" AFTER FIERY CRASH <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE>  <TEXT> Irvington resident Sally Graham has said she is lucky to be alive following a fiery car crash south of the city yesterday. Sally lost control of her car and crashed into a wall, knocking herself unconscious, and setting the car on fire. The intervention of a passer-by, who wished to remain nameless, saved Sally's life. "He pulled me from the car and stopped the bleeding until the ambulance could arrive. It took such a long time, with the phones being down... <BR>"..
+"<H1> <CENTER> LOCALS COMPETE FOR MINT JULEP PRIZE <BR> <TEXT> Many-a Kentucky friendship has been irreparably destroyed by arguments about the perfect mint julep. And yet the Mint Julep Prize competition, held last Saturday in Brandenburg, was full of good cheer and free and healthy debates about the state's favorite cocktail. The Best Traditional Julep award went to Ms. Casey Stockhome. Her concoction, served in a silver cup, was made from a family recipe, and included an unusual ingredient, a hint of chocolate sauce... <BR>"..
+"<H1> <CENTER> WIDESPREAD TELEPHONE OUTAGES CONTINUE <BR> <TEXT> Knox Telecommunications has apologised for an hours-long outage on its networks which continues at the time of printing, leaving thousands of Knox residents without access to telephone and computer networks. The unplanned outage has caused chaos, with several businesses which rely on telecommuting having to remain closed for the day. It's not understood the cause of such a serious but localised outage, but KT say they are "working on it"... <BR> <BR>",
+
+Print_Media_BrandenburgBugle_July5_title = "Brandenburg Bugle - July 5 1993",
+
+Print_Media_BrandenburgBugle_July5_info = "<H1> <CENTER> SPEEDWAY COULD HOST FORMULA X <LINE> <IMAGECENTRE:media/ui/spiffocarpenter.png> <LINE> <TEXT> Formula X organisers have given a preliminary nod to Irvington Speedway as the host track of 1996's United States Grand Prix. Though the host track still remains in negotiation, officials are privately favoring the Speedway due to its location near Louisville, the track's innovative design, and the openness of the state government to its requests. The track, celebrating its tenth birthday this year, previously hosted numerous special events including OSCC races, and attracts race lovers from all over the world... <BR>"..
+"<H1> <CENTER> REPORTS OF ILLNESS IN KNOX "BEING LOOKED INTO" <BR> <TEXT> Governor Fairweather has said reports of a new illness in Knox are "being looked into" by federal authorities. Local media has reported several outbreaks of the "mild illness" with symptoms of fever, nausea, and anxiety. The virus is not reported to be infectious between sufferers, though the governor has said he is "still collating all the available information." Telephone outages are also "hampering" the information gathering, with Knox Telecommunications declining to respond to allegations that the outages are part of a "cover-up"... <BR>"..
+"<H1> <CENTER> PHONE OUTAGES CONTINUE <BR> <TEXT> The Knox Telecommunication outage has continued for a fourth day despite assurances from KT that the situation is "under control". Hundreds of businesses, homes and schools have been thrown into turmoil, with one local resident acting as a paid mailman, couriering letters between family members and friends in his neighborhood. Others are setting up ham radios and walkie talkie networks. And yet, there's likely no small scale solution to the problem. "Before long, someone will have to dial 911," said a resident. "And they're not going to be able to. What then?"... <BR>",
+
+Print_Media_PonyRoamO_title = "Pony Roam-O ",
+
+Print_Media_McCoyLoggingCorp_title = "McCoy Logging Corp",
+
+Print_Media_NolansUsedCars_title = "Nolan's Used Cars",
+
+Print_Media_WestMapleCountryClub_title = "West Maple Country Club",
+
+Print_Media_FashionaBelle_title = "FashionaBelle",
+
+Print_Media_TacodelPancho_title = "Taco del Pancho",
+
+Print_Media_CrossRoadsMall_title = "Cross Roads Mall",
+
+Print_Media_UStoreIt_title = "U-Store It",
+
+Print_Media_Fossoil_title = "Fossoil Flyer",
+Print_Media_Fossoil2_title = "Fossoil Flyer",
+
+Print_Media_YoureWelcomeAboardtheDelilah_title = "You're Welcome Aboard the Delilah",
+
+Print_Media_ChapelmountDownsRacetrack_title = "Chapelmount Downs Racetrack",
+
+Print_Media_BensCabin_title = "Cabin for Rent (West Point)",
+
+Print_Media_GrandOhioMall_title = "Grand Ohio Mall",
+
+Print_Media_DragRacingTrack_title = "Drag Racing Track",
+
+Print_Media_ArtGalleryofLouisville_title = "Art Gallery of Louisville",
+
+Print_Media_FossoilField_title = "Fossoil Field",
+
+Print_Media_SunstarMotel_title = "Sunstar Motel",
+
+Print_Media_HavishamSuites_title = "Havisham Suites",
+
+Print_Media_LouisvilleBruiser_title = "Louisville Bruiser",
+
+Print_Media_TheSeaShanty_title = "The Sea Shanty",
+
+Print_Media_ScarletOakDistillery_title = "Scarlet Oak Distillery",
+
+Print_Media_ReadyPrep_title = "Ready Prep",
+
+Print_Media_WellingtonHeightsGolfClub_title = "Wellington Heights Golf Club",
+
+Print_Media_LouisvilleStateUniversity_title = "Louisville State University",
+
+Print_Media_LectromaxManufacturingJobAd_title = "Lectromax Manufacturing Job Ad",
+
+Print_Media_SpiffosHiringDixie_title = "Spiffo's Hiring! (Dixie)",
+
+Print_Media_SpiffosHiringLouisville_title = "Spiffo's Hiring! (Louisville)",
+
+Print_Media_SpiffosHiringWestPoint_title = "Spiffo's Hiring! (West Point)",
+
+Print_Media_PizzaWhirled_title = "Pizza Whirled",
+
+Print_Media_PizzaWhirledJobAdRosewood_title = "Pizza Whirled Job Ad (Rosewood)",
+
+Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "Pile o' Crepe Job Ad (Cross Roads Mall)",
+
+Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids Job Ad (March Ridge)",
+
+Print_Media_MarchRidgeSchoolJobAd_title = "March Ridge School Job Ad",
+
+Print_Media_KnoxBankJobAdRosewood_title = "Knox Bank Job Ad (Rosewood)",
+
+Print_Media_FarmersMarket_title = "Farmer's Market",
+
+Print_Media_MuldraughLadiesCommitteeBakeSale_title = "Muldraugh Ladies Committee Bake Sale",
+
+Print_Media_KnoxGunOwnersClubGetTogether_title = "Knox Gun Owners Club Get-Together",
+
+Print_Media_HouseforSalelistingno895_title = "House for Sale (listing no. 895)",
+
+Print_Media_HouseforSalelistingno903_title = "House for Sale (listing no. 903)",
+
+Print_Media_HouseforSalelistingno922_title = "House for Sale (listing no. 922)",
+
+Print_Media_HouseforSalelistingno934_title = "House for Sale (listing no. 934)",
+
+Print_Media_OnyxDriveinTheater_title = "Onyx Drive-in Theater",
+
+Print_Media_RedOakApartments_title = "Red Oak Apartments",
+
+Print_Media_DuCaseApartments_title = "Du Case Apartments",
+
+Print_Media_HighStreetApartments_title = "High Street Apartments",
+
+Print_Media_LowryCourt_title = "Lowry Court",
+
+Print_Media_UpscaleMobility_title = "Upscale Mobility",
+
+Print_Media_RoxysRollerRink_title = "Roxy's Roller Rink",
+
+Print_Media_ElveeArena_title = "Elvee Arena",
+
+Print_Media_July4PartyEasternLouisville_title = "Independence Day Party (Eastern Louisville)",
+
+Print_Media_RiversideIndependenceDayPartyAllWelcome_title = "Independence Day Party (Riverside)",
+
+Print_Media_FourthofJulyCelebrationDixieMobilePark_title = "Independence Day Party (Dixie Mobile Park)",
+
+Print_Media_SureFitnessBoxingClub_title = "Sure Fitness & Boxing Club",
+
+Print_Media_BrooksPublicLibraryofLouisville_title = "Brooks Public Library of Louisville",
+
+Print_Media_LouisvilleAnimalShelter_title = "Louisville Animal Shelter",
+
+Print_Media_KnoxPackKitchens_title = "Knox Pack Kitchens",
+
+Print_Media_SunsetPinesFuneralHome_title = "Sunset Pines Funeral Home",
+
+Print_Media_CardinalPlaza_title = "Cardinal Plaza",
+
+Print_Media_YemmliesDen_title = "Yemmlie's Den",
+
+Print_Media_GnomeSweetGnome_title = "Gnome Sweet Gnome",
+
+Print_Media_MeadshireEstate_title = "Meadshire Estate",
+
+Print_Media_IrvingtonSpeedway_title = "Irvington Speedway",
+
+Print_Media_CivilWarfort_title = "Fort Prospect",
+
+Print_Media_GreenesJobAdEkron_title = "Greene's Job Ad (Ekron)",
+
+Print_Media_MailCarrierAdEkron_title = "Mail Carrier Ad (Ekron)",
+
+Print_Media_PremiseswithApartmentsforLeaselistingno891_title = "Premises with Apartments for Lease (listing no. 891)",
+
+Print_Media_HouseforSalelistingno907_title = "House for Sale (listing no. 907)",
+
+Print_Media_YourLocalShelterBrandenburg_title = "Your Local Shelter (Brandenburg)",
+
+Print_Media_BrandenburgAirfield_title = "Brandenburg Airfield",
+
+Print_Media_PonyRoamO_info = "",
+
+Print_Media_McCoyLoggingCorp_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png><LINE> <TEXT><H1><RGB:1,1,1> LUMBERJACKS NEEDED <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/mccoys1.png> <LINE> <H2> <RGB:1,1,1> Reliable men needed for heavy work. Full training provided. Work will include usage of industrial logging equipment for initial logging operations, as well as axes and saws for smaller scale splitting and custom woodworking. Ability to drive a truck is a bonus. <BR> <MAP:McCoyLoggingCorp,0,300> <BR><H1><RGB:1,1,1> McCoy Logging Co. Making trees useful since 1914.",
+
+Print_Media_NolansUsedCars_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Nolans3.png> <LINE> <H2> <RGB:1,1,1> Looking for last year's models without this year's prices? Or a sturdy older vehicle that will never let you down? Have some $$$ to invest in a classic that needs renovation? <BR> <TEXT><H1> <RGB:1,0,0> COME ON DOWN TO NOLAN'S, JUST OFF THE DIXIE HIGHWAY! <BR> <MAP:NolansUsedCars,0,400> <BR> <LEFT><H2><RGB:1,1,1> <H2> <RGB:1,1,1>Looking for some no-pressure advice on the car that's best for you? Need some easy, low cost finance? <BR> <H1> <RGB:1,0,0> COME ON DOWN TO NOLAN'S! <BR><H2> <RGB:1,1,1> There are no lemons at Nolan's - only pre-loved cars at unbeatable prices. You won't believe our bargains. Here are just a couple of the recent models we've sold... <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Nolans2.png> <LINE> <CENTRE> 1987 Dash Elite - $2495 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Nolans1.png> <LINE> <RGB:1,1,1> <CENTRE> 1990 Chevalier Dart - $1695  <BR> <H1> <RGB:1,0,0>  NO MATTER YOUR NEED, YOU'LL LEAVE MY LOT SATISFIED! <BR> ",
+
+Print_Media_WestMapleCountryClub_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getText("media/ui/printMedia/brochureLogoTest2.png"), width:480, height:124, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:101, r:225/255.0, g:225/255.0, b:225/255.0, pivotX:0.5, pivotY:0.5, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>NOW"..
+"<type:text, x:20, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:20, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:20, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:170, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua."..
+"<type:text, x:170, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua."..
+"<type:text, x:170, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua."..
+"<type:texture, x:10, y:330, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:332, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:380, width:460, height:255, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:382, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:358, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>STARTING NOW!"..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Adress, KENTUCKY"..
+"<type:text, x:10, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold>Tel:"..
+"<type:text, x:40, y:682, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldBold>+"..
+"<type:text, x:45, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold> 943"..
+"<type:text, x:95, y:670, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.9, scaleY:0.9, textTracking:-3, font:UIFont.SdfOldBold>XX XX XX XX / YY YY YY YY"..
+,
+
+Print_Media_FashionaBelle_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <CENTER> <RGB:1,1,1> "Je m'appelle Belle St. Clair, et j'aime la mode!" <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/fashionabelle1.png> <LINE> <H2> <LEFT> <RGB:1,1,1> From my younger days as a model in Paris, to my successful career as a designer, I have always been at the cutting edge of clothing culture. <BR> But I wanted to design clothing that would not just be worn on runways: but by "tout le monde". <BR> The happiest day of my life was when my first FashionaBelle store opened on the Champs-Elysees in 1959, and now my designs are being worn all over the world, by people just like "vous"! <BR> <MAP:FashionaBelle,0,400> <BR> <H1> <CENTER> <RGB:1,1,1> FashionaBelle. Clothes of distinction, at fine prices.",
+
+Print_Media_TacodelPancho_info = "<IMAGECENTRE:media/textures/printMedia/TacoDelPancho.png> <LINE> <H1> <RGB:0.8,0,0> 'Ey, my name is Pancho! <BR> I am here to tell you one thing. TACOS! BURRITOS! ENCHILLADAS! <BR> We have all that good stuff at the Taco del Pancho! <BR> Bring this flier to our outlet beside Cross Roads Mall food court for 20% off any taco, and free guacamole. Arriba! <BR> <MAP:TacodelPancho,0,400>",
+
+Print_Media_CrossRoadsMall_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <LINE> <H2><RGB:1,1,1> Come visit us for fun, for friends, for store after store! <BR> Buy some tasty snacks and relax, or browse the latest fashions. Catch the latest flicks at the Star-E-Plex cinema, or buy a gift - or several! - for your loved ones. <BR> Everyone meets at the Cross Roads mall! You'll find everything you want here - and more! <BR> Late night closing every Saturday. <BR> <MAP:CrossRoadsMall,0,600> <LINE> <H1> <RGB:1,1,1> First Floor <BR> <H2> <RGB:1,1,1>- Department Store <LINE>- Book Naked <LINE>- Lola Limon <LINE>- Shoed For The Stars <LINE>- Time 4 Sport <LINE>- Saucy <LINE>- FashionaBelle <LINE>- Hugo Plush <LINE>- Sheba Jewellers <LINE>- Cally's Gifts <LINE>- Toyz <LINE>- Seat Yourself Furniture <LINE>- Groovy Chic <LINE>- Zippee Market <LINE>- Clothing Store <LINE>- Electronics Store <LINE>- Hardware Store <LINE>- Houseware Store <LINE>- Jewelry Store <LINE>- Music Store <LINE>- Bakery <LINE> - Gift Shop <BR> <H1> <RGB:1,1,1> Food Court <BR> <H2> <RGB:1,1,1> - Spiffo's <LINE>- Pizza Whirled <LINE>- Jolly Good Fish & Chips <LINE>- I Love Wok & Rolls <LINE>- Taco del Pancho <LINE>- Mama McFudgington's <LINE>- Ice Cream Parlor <LINE>- Fast Food Restaurant <LINE> <H1> <RGB:1,1,1> Second Floor <BR> <H2> <RGB:1,1,1> - Department Store <LINE>- Palm Travel <LINE>- Pharmahug <LINE>- Optima Eyes <LINE>- Carton & Sydney Law Services <LINE>- Awl Work and Sew Play <LINE>- Seahorse Coffee <LINE>- Restaurant <LINE>- Medical Center <LINE>- Hairdresser <LINE>- Clothing Store <LINE>- General Store <LINE>",
+
+Print_Media_UStoreIt_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:0.5,0,0> You can store it... at U-Store It! <BR><H2> <RGB:1,1,1> From home furnishings and artwork, to tools and the safe storage of guns and ammunition. From non-perishable food, to clothes you can't bear to give away... <BR>You can store it... at U-Store It! <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/UStoreIt1.png> <LINE> Secure storage areas and a unique system of humidity control will keep your goods in great shape, for years! Price start at just $20 per month. Get 3 large lockers for the price of 2 until July 9. <BR> <MAP:UStoreIt,0,200><H1> <RGB:1,1,1> Affordable spacious lockers, for all your storage needs.",
+
+Print_Media_Fossoil_info = "<IMAGECENTRE:media/textures/printMedia/Fossoil.png> <LINE> <H1> <RGB:1,1,1> Fossoil. Our gas prices are as low as they can go! <BR> With low gas prices and less lead than ever before, there's never been a better time to refuel with Fossoil. From affordable regular to top-notch premium, your engine will thank you. <BR> Latest Fuel Prices (5/20/93) <LINE>- Regular $1.06 <LINE>- Plus $1.15 <LINE>- Supreme $1.24 <LINE>- Diesel $1.05 <BR>Here are just some of our station locations in your area! <BR> <MAP:Fossoil,0,200> <LINE>Muldraugh <BR><MAP:Fossoil,0,200> <LINE>West Point <BR><MAP:Fossoil,0,200>  <LINE>Rosewood <BR><MAP:Fossoil,0,200> <LINE>Ekron <BR>",
+
+Print_Media_Fossoil2_info = "<IMAGECENTRE:media/textures/printMedia/Fossoil.png> <LINE> <H1><RGB:1,1,1> Fossoil. For the best gas prices - and more! <BR> Fossoil has the best gas at the lowest prices, but that's not all! Our stores stock a variety of delicious treats and helpful tools to help you on your journey. Whether you're broken down, hungry, want something to read, or just stocking up, you'll find everything you need at Fossoil. <BR>Latest Fuel Prices (6/22/93) <LINE>- Regular $1.06 <LINE>- Plus $1.16 <LINE>- Supreme $1.27 <LINE>- Diesel $1.05 <BR>Here are just some of our station locations in your area! <BR><MAP:Fossoil2,0,200> <LINE>Riverside <BR><MAP:Fossoil2,0,200> <LINE>Brandenburg <BR><MAP:Fossoil2,0,200> <LINE> Louisville Suburbs <BR><MAP:Fossoil2,0,200> <LINE>Southern Louisville <BR>",
+
+Print_Media_YoureWelcomeAboardtheDelilah_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1><RGB:1,1,1> Come aboard the Delilah, and remember when life was a lot slower. <BR><IMAGECENTRE:media/textures/printMedia/FlyerPics/delilah1.png> <LINE> <H2><RGB:1,1,1> My grandpappy grew up on the riverboats of the Mississippi, but new, faster ships soon put his family out of business. He spent years in the navy, but never forgot the smooth, easy sailing of those old boats. <BR>In 1932, he started a whole new life when he found the wreck of a paddle steamer stuck in the mud near St. Louis. With his two brothers, he bought the wreck and, over several years, they patched up the old boat until she was ready to float again. <BR>Passengers clamoured to have that slow, relaxing mode of travel back again. To eat in our old-fashioned restaurant, drink in our bar, and play pool or cards with like-minded people. <BR>My grandpappy's dream came true. His name was Adam Jones, and he named his new ship the Delilah after his beloved wife. <BR>I am Captain Adam Jones III, and I am proud to be able to keep Grandpappy's dream alive. <BR>The Delilah is now docked in your area. See the attached map for details. <BR><MAP:YoureWelcomeAboardtheDelilah,0,200> ",
+
+Print_Media_ChapelmountDownsRacetrack_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:0.5,0.4,0> "And they're off!" <BR> <H2> <RGB:0.5,0.4,0> Millions of horse-lovers hear these words every May from Chapelmount Downs as the Kentucky Furlongs begin...  <BR>But more happens at Chapelmount that just the Furlongs! From stakes and handicaps to special sprints and steeplechases, there's fun to be had at Chapelmount all year round.  <BR>Gamble responsibly (or not!) at our betting booths, watch the races from our comfortable stands, and get a bite to eat from our food court on the second floor. <BR> Chapelmount Downs. We're a head in front of the competition.  <BR>Event entry fees, times, and dress codes vary. Please contact us on 555-CMOUNT for specific event information. <BR><MAP:ChapelmountDownsRacetrack,0,200> ",
+
+Print_Media_BensCabin_info = "<H1> <RGB:0.1,0.1,0.8> Cabin for rent <BR><H1><LEFT> <RGB:0.1,0.1,0.8>  Small remote lakeside cabin for rent west of West Point. <LINE> Great location for fishing, hunting or just relaxing. Heated by a wood stove. Running water, indoor bathroom. One, single bed. <BR> $40 per night for one person, $60 for two. Call me on 555-3498 for more information. <BR> <MAP:BensCabin,0,200>",
+
+Print_Media_GrandOhioMall_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:0.94,0.82,0.5> Four floors of shopping heaven. It sounds like a dream. But it's a reality at the Grand Ohio, KY's largest mall! <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/grandohio1.png> <LINE> <H2> <RGB:0.94,0.82,0.5> From fine art to fine dining, from the latest fashions to the latest hairstyles... and fun for all ages, from tots to seniors. <BR> Leave the kids at the toy store, while you try out a new handgun. Find a sharp new suit, or the latest bestselling books and videos. Take a ride on our magnificent indoor mini-train. <BR> Just be prepared for a horde of fellow shoppers! <BR>It's all waiting for you at the Grand Ohio. You'll wish you never had to leave. <BR> <MAP:GrandOhioMall,0,400> <BR> <H1> <RGB:0.94,0.82,0.5> First Floor <BR> <H2> <RGB:0.94,0.82,0.5> - Stars & Stripes <LINE> - Hair Genesis <LINE> - Lola Limon <LINE> - Toyz Toyz Toyz <LINE> - Time 4 Sport <LINE> - Awl Work and Sew Play <LINE> - Better BED Than DEAD <LINE> - Hugo Plush <LINE> - Mama McFudgington's <LINE> - Book Naked <LINE> - Giga Mart <LINE> - BBBQ <LINE> - Sheba Jewelers <LINE> - FashionaBelle <BR> <H1> <RGB:0.94,0.82,0.5> Food Court <BR> <H2> <RGB:0.94,0.82,0.5> - Jay's Chicken <LINE> - Spiffo's <LINE> - I Love Wok & Rolls <LINE> - Pizza Whirled <LINE> - Jolly Good Fish & Chips <BR> <H1> <RGB:0.94,0.82,0.5> Second Floor <BR> <H2> <RGB:0.94,0.82,0.5> - Olympia Department Store <LINE> - Have A Butcher's <LINE> - Palm Travel <LINE> - The Wandering Sashimi <LINE> - Palette POP! Art Supplies <LINE> - E.P. Tools <LINE> - Electron House <LINE> - Pharmahug <LINE> - Saucy <LINE> - Cally's Gifts <LINE> - Expresso Espress",
+
+Print_Media_DragRacingTrack_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:0.8,0,0> You've seen the OSCC and Formula X, but have you heard of a car race YOU could enter? <BR>Join us at the drag racing strip every Sunday from five 'til nine for the Sunday Drivers' Cup. Test your engine on the drag strip, get your best time on our oval circuit, and push your car to the limit on our offroad area. <BR> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> Every car is tested on its own merits, so come along to our circuit, just west of the Cross Roads Mall! <BR>Entry fees start at just $15, and all racers get a 25% discount on snacks. <BR><MAP:DragRacingTrack,0,500> <LINE> <TEXT> <RGB:0.8,0,0> Note that all race participants must sign a waiver declaring that Drag Racing Track will not be held responsible for injuries or car damage received before, during, or after races.",
+
+Print_Media_ArtGalleryofLouisville_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:0.2,0.2,0.24> Expand your mind at the Art Gallery of Louisville. <BR>Explore two floors of our Eternal Classics collection featuring world-renowned paintings like Night with Stars, Nomad Above the Gloom and Aaaaah! <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/gallery1.png> <LINE> Venture to our top floor to see cutting edge modern art including a new exhibition by Siu-Chong Prize-winning Ashling Dwyer. <BR>Expand your mind, one painting at a time. <BR> <MAP:ArtGalleryofLouisville,0,200> <LINE> Free entry for seniors, and half-price for under-12s.",
+
+Print_Media_FossoilField_info = "<IMAGECENTRE:media/textures/printMedia/FossoilField.png> <LINE> <H2> <RGB:1,1,1> Located in the heart of Louisville just a few blocks from the iconic Louisville Bruiser factory, Fossoil Field is deeply linked to Louisville's rich baseball history. <BR>Opened as Hoskins Field in 1937 as a new home for the Kentucky State team, we've hosted thousands of events, from minor league softball to World Championships. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/fossoilfield1.png> <LINE> You can be sure there's something great to watch - or participate in! - all year round. Relax in comfort in our newly renovated stands, and find hearty, delicious burgers and hot dogs at our food stands. Join the cheering for your favorite teams in one of America's most charming stadiums. <BR>A trip to Fossoil Field is a trip to baseball heaven! <BR><MAP:FossoilField,0,200> <LINE> <CENTRE> FUN FACT: Fossoil Field's entrance building was once a rail depot. <BR>",
+
+Print_Media_SunstarMotel_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <LEFT> <RGB:0.7,0.3,0> Come to the Sunstar Motel for fully furnished, comfortable motel rooms with air conditioning and color TV. Food available separately in our diner, 7-6. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Sunstar1.png> <LINE> <CENTRE> Rates: <LEFT> <BR> Standard Double/Twin singles: $55 <LINE>Double and single twin: $65 <LINE>Bedroom w/double bed and living room: $70 <BR>10% discount for veterans and seniors. <BR> <MAP:SunstarMotel,0,200> <LINE> <TEXT> <RGB:0.7,0.3,0> Ask about our special discreet rooms for daytime meetings. ",
+
+Print_Media_HavishamSuites_info = "<IMAGECENTRE:media/textures/printMedia/HavishamHotelSuites.png> <LINE> <H1> <RGB:0.8,0.68,0.2> Luxury and relaxation. An experience that will last a lifetime. <BR>At the Havisham Suites, we know experiences are more important than things. Our stunning Louisville location features two conference rooms, an auditorium, and over two hundred hotel rooms to choose from! <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/havisham1.png> <LINE> Whether business or pleasure, the Havisham Suites will give you just what you need. <BR>Competitive prices, friendly staff, and professional cocktail artistes in our bar make the Havisham Suites the gateway to your dreams. <BR><MAP:HavishamSuites,0,200>",
+
+Print_Media_LouisvilleBruiser_info = "<IMAGECENTRE:media/textures/printMedia/LouisvilleBruiser.png> <LINE> <H2> <RGB:0,0,0.5> Come visit the home of the official bat of the Baseball World Championship! <BR> Sunday tours are now available at our world-renowned factory. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Bruiser1.png> <LINE> See the full process of how we turn a simple log into one of the most famous pieces of sporting equipment in American history. Wield the iconic Bruiser bat, and maybe even take one (or more!) home! <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Bruiser2.png> <LINE> Call 555-3009 to book your tour, order a catalog, or make a purchase with FREE delivery on all items. <BR> <MAP:LouisvilleBruiser,0,200>",
+
+Print_Media_TheSeaShanty_info = "<IMAGECENTRE:media/textures/printMedia/TheSeaShanty.png> <LINE> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> <H2> <RGB:0.17,0.25,0.36> What do you do with a seafood platter? <LINE> What do you do with a fish so battered? <LINE> What do you do with the shrimp so slathered <LINE> in all that garlic butter? <BR>Try our all-you-can-eat shrimp platter for $9.99, our crab and lobster specials on Saturday, and don't forget Tuesday's surf-and-turf special for $6.99. <BR>Show this flier to a server for a 10% discount on lobster, and 25% off all salmon fillets. <BR> <H1> <RGB:0.17,0.25,0.36> What do you do when you get that hunger? <LINE> Come to The Sea Shanty! <BR> <MAP:TheSeaShanty,0,200>",
+
+Print_Media_ScarletOakDistillery_info = "<IMAGECENTRE:media/textures/printMedia/ScarletOakDistillery.png> <LINE> <H2> <RGB:1,1,1> Aged to perfection in our treated oak barrels, Scarlet Oak bourbon is one of the world's finest alcoholic drinks. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/ScarletOak1.png> <LINE> A favorite of workmen and presidents alike, we've been brewing since 1910. <BR>Scarlet Oak bourbon has won The North American Brewer's Prize, the Finest of Imports award in Europe, the Elijah Craig Memorial prize - and that's was just in 1992! <BR> Visit our factory for a tour of our facilities. Take a sip - or two! - and see what makes Scarlet Oaks bourbon the very best of the best. <BR> <MAP:ScarletOakDistillery,0,400>",
+
+Print_Media_ReadyPrep_info = "<IMAGECENTRE:media/textures/printMedia/ReadyPrep.png> <LINE> <H1> <LEFT> <RGB:0.3,0.22,0.04> Rising crime, riots, dangerous cults... there's a lot to fear these days. <BR>We say: don't get scared - get prepared at Ready Prep! <BR>Sturdy survival knives. The finest in military surplus clothing. Tents that can withstand hurricane force winds. Guns for hunting - and self defense. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/readyprep1.png> <LINE> Come down to Ready Prep in northwest Louisville just south of the Ohio. <BR>Prepare for the worst - with the very best! <BR> <MAP:ReadyPrep,0,200>",
+
+Print_Media_WellingtonHeightsGolfClub_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:0.38,0.27,0> See the sights at Wellington Heights. <BR>Our tough but fair nine-hole course offers something for players of all skill levels. Come to our weekly lessons with Logan Barton, winner of the 1992 Riverside Classic. Club rental and group discounts available. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Wellington1.png> <LINE> Even if you're not a golfer, you'll find top quality food and drink at our comfortable, large, and private clubhouse. Why not visit today? <BR>Wellington Heights. We're well above par. <BR><MAP:WellingtonHeightsGolfClub,0,400>",
+
+Print_Media_LouisvilleStateUniversity_info = "<IMAGECENTRE:media/textures/printMedia/LouisvilleStateUniversity.png> <BR> <H1> <RGB:0.7,0.62,0.27> Let's go, LSU! <BR> <H2> <RGB:0.7,0.62,0.27> Founded as the Franklin Seminary in 1798, Louisville State University is one of America's oldest and most prestigious educational institutes. We lead the world in medical research, and our programs have created some of the world's finest doctors, surgeons, and specialists. <BR> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> We offer dozens of courses in fields as diverse as Humanities, Computing, Communicable Viral Biology, and Sports Psychology, with our university sports and athletics teams regularly topping state and national leagues. Our hundreds of highly trained lecturers and instructors ensure you get a world-class education, and all the support you need. <BR>But LSU is not just about studying. With a diverse array of clubs and groups to join, a healthy local nightlife scene, and over 10,000 fellow students, the friendships you make here will last a lifetime. <BR> <H1> <RGB:0.7,0.62,0.27> LSU. We'll make the rest of your life possible. <BR><MAP:LouisvilleStateUniversity,0,350>",
+
+Print_Media_LectromaxManufacturingJobAd_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> JOB AVAILABLE <BR> <H2> Lectromax Manufacturing is hiring a skilled machine operators to work on our busy factory floor near Riverside. Three years experience with Mass-Genfac articulated mechanical arms required. <BR>Please send resume and references to the address listed below. Salary negotiable. <BR> <MAP:LectromaxManufacturingJobAd,0,300>",
+
+Print_Media_SpiffosHiringDixie_info = "<IMAGECENTRE:media/textures/printMedia/Spiffos.png> <LINE> <H2> <RGB:0.9,0.5,0> The Spiffo's family is looking for new members in your area - and one could be you! <BR> With great benefits, good-humored managers, and more Secret Sauce than you can imagine, Spiffo's® employs hundreds of thousands of happy, healthy workers worldwide. Could you be our next hire? <BR> LOCATION: Dixie highway, KY  <BR> JOB TITLE: Cook <BR> OTHER INFO: Training provided. <BR> JOB TITLE: Hygiene Assistant <BR> OTHER INFO: Bucket provided. <BR> JOB TITLE: Server <BR> OTHER INFO: Multiple openings. <BR> Looking forward to hearing from you soon! <BR> <MAP:SpiffosHiringDixie,0,200> <LINE> <TEXT> <RGB:0.9,0.5,0> © 1993 The Spiffo Logo, Spiffo character, and Spiffo's Secret Sauce are registered trademarks of Spiffo Corp. All Rights Reserved. ",
+
+Print_Media_SpiffosHiringLouisville_info = "<IMAGECENTRE:media/textures/printMedia/Spiffos.png> <LINE> <H2> <RGB:0.9,0.5,0> Our Spiffo family is looking for new members in your area - and one could be you! With great benefits, good-humored managers, and more Secret Sauce than you can imagine, Spiffo's® employs hundreds of thousands of happy, healthy workers worldwide. Could you be our next hire? <BR> LOCATION: Southern Louisville, KY <BR> JOB TITLE: Children's entertainer <BR> OTHER INFO: Busy location. High stress tolerance required. <BR> JOB TITLE: Cleaner <BR> OTHER INFO: Mop training provided. <BR> JOB TITLE: Customer Complaints Representative <BR> OTHER INFO: Nervous people need not apply. <BR> Looking forward to hearing from you soon!  <BR> <MAP:SpiffosHiringLouisville,0,200> <LINE> <TEXT> <RGB:0.9,0.5,0> © 1993 The Spiffo Logo, Spiffo character, and Spiffo's Secret Sauce are registered trademarks of Spiffo Corp. All Rights Reserved. ",
+
+Print_Media_SpiffosHiringWestPoint_info = "<IMAGECENTRE:media/textures/printMedia/Spiffos.png> <LINE> <H2> <RGB:0.9,0.5,0> Our Spiffo family is looking for new members in your area - and one could be you! With great benefits, good-humored managers, and more Secret Sauce than you can imagine, Spiffo's® employs hundreds of thousands of happy, healthy workers worldwide. Could you be our next hire? <BR> LOCATION: West Point, KY <BR> JOB TITLE: Server <BR> OTHER INFO: Optimistic personality mandatory. <BR> JOB TITLE: Security Operator <BR> OTHER INFO: Non-lethal self defence training provided. <BR> JOB TITLE: Delivery driver <BR> OTHER INFO: Clean criminal record required. <BR> Looking forward to hearing from you soon! <BR> <MAP:SpiffosHiringWestPoint,0,200> <LINE> <TEXT> <RGB:0.9,0.5,0> © 1993 The Spiffo Logo, Spiffo character, and Spiffo's Secret Sauce are registered trademarks of Spiffo Corp. All Rights Reserved. ",
+
+Print_Media_PizzaWhirledJobAdRosewood_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:0.8,0,0>Where in the Pizza Whirled are we today? <BR> You won't find pizzas like ours anywhere else! From the classic Chicago crust, to a stromboli filled with spaghetti (mama mia!), from mozzarella and salami to a rice pizza filled with sushi (konnichi wa!), we bring the world's flavors to you, one slice at a time. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/pizza1.png> <LINE> Built for the best birthdays, perfect for pizza parties, suitable for social sojourns, Pizza Whirled has even been the host of more than one wedding! No matter the event or group size, you'll leave our Whirled wowed with worldwide wonders. Take a journey to your local Pizza Whirled today! <BR> <H1> <RGB:0.8,0,0> NOW HIRING <BR> <MAP:PizzaWhirledJobAdRosewood,0,300> <LINE> <H2> <RGB:0.8,0,0> We are now hiring motivated servers to work part-time in our busy Rosewood location. Family friendly manners, being comfortable with costumes, and a ready smile are huge bonuses. $5 per hour. ",
+
+Print_Media_PileoCrepeJobAdCrossRoadsMall_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:0.85,0.35,0.05> MANAGER WANTED <BR> Manager wanted at our outlet beside Cross Roads Mall. Five years experience in busy environment required. Very competitive salary, company car. <BR> Apply with resume at address below, or call us on 555-3492. <BR> <MAP:PileoCrepeJobAdCrossRoadsMall,0,400>",
+
+Print_Media_HitVidsJobAdMarchRidge_info = "<IMAGECENTRE:media/textures/printMedia/HitVids.png> <LINE> <H2> <RGB:0.75,0,0> <CENTRE> RETAIL ASSISTANTS REQUIRED <BR> <LEFT> Do you have a friendly, helpful manner, and a love of the latest blockbusters? We are now hiring retail assistants in March Ridge. <BR> Wide knowledge of movies and TV shows a huge bonus. No experience required. Apply today. <BR> <MAP:HitVidsJobAdMarchRidge,0,200>",
+
+Print_Media_MarchRidgeSchoolJobAd_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE><H1> <RGB:0.8,0,0> We URGENTLY require a janitor! Experience of cleaning school environments prefered. Clean criminal record required. <BR> Please get in touch with principal Stanley Leemore on 555-6677 for more information and to arrange an interview. <BR> <MAP:MarchRidgeSchoolJobAd,0,450>",
+
+Print_Media_KnoxBankJobAdRosewood_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:0.8,0.7,0.4> Knox Bank, Kentucky's largest financial institution, is now hiring. <BR> We require two tellers for our Rosewood location. College degree or two years experience in similar role required. $35000 salary. <BR> <MAP:KnoxBankJobAdRosewood,0,300>",
+
+Print_Media_FarmersMarket_info = "<H1> <RGB:0.7,1,0.7> FARMER'S MARKET <LINE> <H2> <RGB:0.7,1,0.7> Find the FINEST Knox produce at our market just off Route 60 northwest of March Ridge. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/FarmersMarket1.png> <LINE> We have the freshest carrots, potatoes, cabbages and more, all grown in the local area by Kentucky born and bred farmers. <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/FarmersMarket2.png> <LINE> There's nothing like home grown goodness. <BR> <MAP:FarmersMarket,0,300>",
+
+Print_Media_MuldraughLadiesCommitteeBakeSale_info = "<H1> MULDRAUGH LADIES COMMITTEE BAKE SALE <BR><H2> The Muldraugh Ladies Committee are holding our annual bake sale on July 2 in the parking lot of Holy Grace Church (weather permitting). <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/Bakesale1.png> <LINE>  <BR> Along with baking competitions, we'll have horseshoe and ring toss games, and a pony ride. There'll be fun for the whole family! <BR> All proceeds go to the committee. We bring together local women for cooking, knitting and other crafts, and organise social outings and fundraisers for vulnerable members of our community. <BR> <MAP:MuldraughLadiesCommitteeBakeSale,0,400>",
+
+Print_Media_KnoxGunOwnersClubGetTogether_info = "<H1> <RGB:1,0,0> KNOX <SPACE> <SPACE>  <RGB:1,1,1> GUN <SPACE> <SPACE> <RGB:0,0,1> OWNERS <SPACE> <SPACE>  <RGB:1,1,1> CLUB <SPACE> <SPACE>  <RGB:1,0,0>  MEETING  <BR> <IMAGECENTRE:media/textures/printMedia/TheVelvetTassel.png> <LINE> <H2> <RGB:0,0,1> All members of the Knox Gun Owners Club are invited to our annual meeting at the Velvet Tassel Club in Louisville. <BR> Come along to chat about your favorite ammunition, scopes or bandoliers, or have a healthy debate about the Second Amendment. Three drink minimum. <BR> <MAP:KnoxGunOwnersClubGetTogether,0,300> <BR> <TEXT> <RGB:0,0,1> Please note that, this year, firearms are not permitted inside the club.",
+
+Print_Media_HouseforSalelistingno895_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.895 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house895.png> <LINE> <H1> Find a new home in this delightful two-story house in central West Point, just up the street from an elementary school.<BR>Charming brickwork exterior. Includes small garden and garage on private lane to rear of property. Seven rooms including two bathrooms and two bedrooms, and a spacious storage closet. $52,000. <BR> <MAP:HouseforSalelistingno895,0,200> <LINE> Call us on 555-9029.",
+
+Print_Media_HouseforSalelistingno903_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.903 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house903.png> <LINE> A spacious, traditionally styled, two-story abode located in a private area of central Muldraugh.<BR>Features a spacious garden with a high fence for privacy. Located just a short drive from the main highway to West Point and Louisville. $80,000. Book a viewing and see for yourself! <BR> <MAP:HouseforSalelistingno903,0,200><LINE> Call us on 555-9029.",
+
+Print_Media_HouseforSalelistingno922_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.922 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house922.png> <LINE> <H1> Compact bungalow for sale. Located at the southern edge of Rosewood, this is a house that will benefit from a little DIY. Backed by deep majestic forests, this location will surely become a sought-after area in coming years. $25,000. <BR> <MAP:HouseforSalelistingno922,0,400><LINE> Call us on 555-9029.",
+
+Print_Media_HouseforSalelistingno934_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.934 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house934.png> <LINE> <H1> Rustic two-story house located in a historic area. Equidistant between Riverside and Brandenburg, this location is a commuter's dream. While the neighborhood is currently undergoing renovation, with a little community spirit, it will be back on its feet in no time. $15,000. <BR> <MAP:HouseforSalelistingno934,0,400><LINE> Call us on 555-9029.",
+
+Print_Media_OnyxDriveinTheater_info = "<IMAGECENTRE:media/textures/printMedia/OnyxDriveInTheater.png> <LINE> <H2> <RGB:1,1,1> Experience the latest movies from the comfort of your own vehicle! <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/onyx1.png> <LINE> Operating continuously since 1952, the Onyx Drive-in Theater features parking spaces for over one hundred vehicles, with popcorn, hotdogs and more available in our entrance building. Tickets start at just $5. Save time by calling 555-1390 to book ahead. <BR> <H1> <RGB:1,1,1> NOW SHOWING: The Forgotten Element <BR> <MAP:OnyxDriveinTheater,0,300><BR> ",
+
+Print_Media_RedOakApartments_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> Fully furnished apartments available in the heart of Louisville, just south of the Grand Ohio Mall. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/redoaks1.png> <LINE> From cozy single rooms to apartments fit for large families, you'll find your new home here. <BR>Rent starts at $500 per month. <BR> <MAP:RedOakApartments,0,400><BR>",
+
+Print_Media_DuCaseApartments_info = "<IMAGECENTRE:media/textures/printMedia/DuCaseApartments.png> <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/ducase1.png> <LINE> <H2> <RGB:0.7,0.6,0.4> Enjoy a view of the Ohio river from one of our affordable apartments in northern Louisville. <BR> We have an excellent selection of rooms to suit all lifestyles and budgets. Private parking for residents. 24 hour security. <BR>You could spend the rest of your life here! <BR> Rent from $450 per month. <BR> <MAP:DuCaseApartments,0,200><BR>",
+
+Print_Media_HighStreetApartments_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/highstreet1.png> <LINE> <H2> <RGB:0.4,0.4,0.4> Come live at High Street. Our incredibly spacious luxury apartments are just missing one thing - you! <BR>Our fully furnished apartments all come with full kitchens, living rooms, desks, bookcases, and televisions. Located just east of St. Michael's Cathedral, living here will be a blessing - and a miracle! <BR> Rents start at $850. Call us on 555-3344 to arrange a no-pressure viewing. <BR> <MAP:HighStreetApartments,0,200><BR>",
+
+Print_Media_LowryCourt_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/lowrycourt1.png> <LINE> <H2> Cozy, affordable apartments for rent or sale in downtown Louisville. <BR>Located in a highly central location, you'll truly find a new home at Lowry Court. Our building's design and security fence ensures you never have to worry about safety, and with rents from just $525 per month, you'll rest easy at Lowry Court. <BR> <MAP:LowryCourt,0,200><BR> <H1> Call 555-3289 to book a viewing. <LINE>",
+
+Print_Media_UpscaleMobility_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <LINE> <H2> <RGB:0.7,0.6,0.4> Looking to ride in comfort, or find the latest imported sports cars? <BR>Come to Upscale Mobility for the most luxurious automobiles, with prices to match. With dozens of models to choose from and affordable finance available, you'll be in four-wheeled heaven. <BR> Here are just some of our latest sales. <BR> <H1> <RGB:0.7,0.6,0.4> <IMAGECENTRE:media/textures/printMedia/FlyerPics/upward1.png> <LINE>Mercia Lang 4000 - $84,500 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/upward2.png> <LINE>Chevalier Cossette - $34,495 <BR> <H1> <RGB:0.7,0.6,0.4> OUR LOCATION  <BR> <MAP:UpscaleMobility,0,200> <LINE> Call 555-UPSCALE to order a catalog.",
+
+Print_Media_RoxysRollerRink_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <LINE> <H2> <RGB:0.7,0.9,0.9> Strap on your skates and roll down to Roxy's Roller Rink! <BR> From birthdays and anniversaries to bachelor parties and corporate get-togethers, Roxy's offers fun on four wheels all year round. <BR> <IMAGECENTRE:media/textures/printMedia/400x200.png> <LINE> Don't worry if you've never skated before! Our helpful staff are on-hand to help you get started and have fun. With food and refreshments available, you're certain to be heading back to Roxy's for one more roll! <BR> <MAP:RoxysRollerRink,0,200><BR>",
+
+Print_Media_ElveeArena_info = "<IMAGECENTRE:media/textures/printMedia/ElveeArena.png> <LINE> <H1> <RGB:0.6,0.7,0.4> FIGHT NIGHT AT THE ELVEE <BR><H2> O<RGB:0.6,0.7,0.4>  n July 3, come see two of the world's greatest heavyweight boxers duke it out. <BR> <IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> Jackson Barren, the Detroit Whirlwind, will meet Cranford Kensington, the Oxford Babyface. Will American grit defeat the Brit's stiff upper lip? Or will Babyface downgrade the Whirlwind to a Category 0? <BR> Miss this fight and you'll regret it. It's sure to be a knock-out for the history books! <BR> <MAP:ElveeArena,0,300><BR>",
+
+Print_Media_July4PartyEasternLouisville_info = "<H1> July 4 Get-Together <BR><H2> I, Gerald Stirrup, hereby invite you to our house for a July 4 celebration, starting at 3pm. <BR> We have plenty of room for everyone, inside and out. Music and entertainment will be provided by my wife Genevieve, a trained concert pianist. <BR> I will personally be manning the barbeque, while high quality side dishes will be provided by professional caterers. If you're one of the lucky few, you may be allowed a taste of my 1943 Chateau Cheval Rouge! <BR> Ours is the large ochre abode at the northwest corner of Fountain View square. See you there! <BR> <MAP:July4PartyEasternLouisville,0,300><BR>",
+
+Print_Media_RiversideIndependenceDayPartyAllWelcome_info = "<H1> <LEFT> <RGB:0,0,0.4> Block party at no. 8 Kelly Drive on July 4. Music, fun, beer, and great food guaranteed! All welcome! <BR> <MAP:RiversideIndependenceDayPartyAllWelcome,0,275><BR>",
+
+Print_Media_FourthofJulyCelebrationDixieMobilePark_info = "<H1> <RGB:0.8,0,0>  JULY 4, DIXIE MOBILE PARK <BR> <RGB:0,0,0.6> We're going to salute America in style with a big party at the Dixie Mobile Park!<BR> All residents and their relatives welcome. Meet your neighbors and have a great time. 10pm fireworks show. Free beer and burgers for all. <BR> <MAP:FourthofJulyCelebrationDixieMobilePark,0,500><BR>",
+
+Print_Media_SureFitnessBoxingClub_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <LINE> <H1> <RGB:0.5,0.2,0.1> Punch your gut clean off with a membership at Sure Fitness! <LINE> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> Spar with the pros and get fit. Treadmills, weight machines and a basketball court available to members. <BR>Annual fees from only $100. Find us three blocks south of the Ohio. <BR> <MAP:SureFitnessBoxingClub,0,400><BR>",
+
+Print_Media_BrooksPublicLibraryofLouisville_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE><H2> <RGB:1,1,1> For quiet study, in-depth research, or the latest popular novels, there's no place like your local library. <BR>  <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> Get your little ones started early with our wide array of kids' books, or learn some new skills from our selection of professional development literature. Find us beside the art gallery and start - or continue! - your literary journey today - all for free! <BR> <MAP:BrooksPublicLibraryofLouisville,0,200><LINE> <H1> <RGB:1,1,1> To reserve a book, renew a loan, or for general information, call us on 555-4449.",
+
+Print_Media_LouisvilleAnimalShelter_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> Dozens of animals are looking for new homes at our shelter, and our resources are stretched. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/lvshelter1.png> <LINE> Help us find forever homes for these bundles of love. <BR> Visit us beside Jay's Chicken in northern Louisville, or call 555-3000. <BR> <MAP:LouisvilleAnimalShelter,0,400><BR>",
+
+Print_Media_KnoxPackKitchens_info = "<IMAGECENTRE:media/textures/printMedia/KnoxPackKitchens.png> <LINE> <H1> <RGB:0.1,0.2,0.6> Knox Pack Kitchens come packed with value! <BR> <LEFT> From kitchen cabinets and appliances, to industrial stoves and refrigerators, you can't knock Knox Pack Kitchens. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/knoxpack1.png>  Free microwave with every refrigerator purchase.* <BR> <H1> <RGB:0.1,0.2,0.6> OUR LOCATION <LINE> <MAP:KnoxPackKitchens,0,200><LINE> <TEXT> <RGB:0.1,0.2,0.6> * Offer ends 7/6/93. Only one microwave per customer. ",
+
+Print_Media_SunsetPinesFuneralHome_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <LEFT> <RGB:0.9,0.9,0.9> At Sunset Pines, your loved one will enter the afterlife in style. <BR> No need to wait - plan and pay for your funeral today, and let your family and friends focus on their happy memories when you pass. Choose from a variety of services and coffins to suit every budget, or keep it simple with a cremation. Our post-life advisors will even help you deal with the bureaucracy of death. <BR> <CENTRE> Sunset Pines. Make your final resting place be somewhere comfortable. <BR> <MAP:SunsetPinesFuneralHome,0,200><BR>",
+
+Print_Media_CardinalPlaza_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:1,1,1> Shop and relax at the Cardinal Plaza. <BR> <H2> <RGB:1,1,1> Take a break with a cup of coffee and a sandwich at Yummmers, or browse furniture, jewelry, books or the latest styles. <BR> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> Office space is available to rent on our two upper floors. <BR> We may not be the biggest, but we are the best! <BR> <MAP:CardinalPlaza,0,200><BR>",
+
+Print_Media_YemmliesDen_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:0.2,0.3,0.2> Need your radio repaired? Have an old TV on the fritz? Does your word processor need an update? Come see Yemmlie! <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/yemmlie1.png> <LINE> Yemmlie has over 20 years in electronic repair and maintenance. Locally trusted, Yemmlie's clients include schools, hospitals, multinational businesses, and even the military. <BR> <H1> <RGB:0.2,0.3,0.2> If it can be plugged in, Yemmlie can fix it!",
+
+Print_Media_GnomeSweetGnome_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <LEFT> <RGB:1,1,0> Gnomes, gnomes, gnomes. No home's a home with no gnome! <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/gnome2.png> <LINE> Have a gnome? You need more gnomes! Gnome Sweet Gnome has all the gnomes you need, and more. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/gnome1.png> <LINE> Dial 555-GNOMORE to know more about our gnomes. You can't ignore our gnomes* no more! <BR> <MAP:GnomeSweetGnome,0,400> <BR> <TEXT> <RGB:1,1,0> *gnomes <IMAGE:media/textures/printMedia/FlyerPics/gnome2.png><IMAGE:media/textures/printMedia/FlyerPics/gnome2.png><IMAGE:media/textures/printMedia/FlyerPics/gnome2.png><IMAGE:media/textures/printMedia/FlyerPics/gnome2.png><IMAGE:media/textures/printMedia/FlyerPics/gnome2.png><IMAGE:media/textures/printMedia/FlyerPics/gnome2.png> <LINE>",
+
+Print_Media_MeadshireEstate_info = "<IMAGECENTRE:media/textures/printMedia/FlyerPics/meadshire1.png> <LINE> <H2> <RGB:1,1,1> Meadshire Estate, an exclusive gated community located in a picturesque region east of Ekron, is looking for new tenants and landowners. <BR> Join a community with a rich history and deep connections to Kentucky history. Our estate was built by Daniel Mead, the sole heir to the Mead family, wealthy business owners from the 1930s until the crash of 1973. Nicknamed "Mad Dan" by his family, Daniel embraced his nickname after his eccentric decision to reorient the family's business empire from construction beams to furniture paid huge dividends. <BR> <IMAGECENTRE:media/textures/printMedia/400x400.png>  <LINE> Daniel's dream to build homes for Kentuckians came through in 1989 when our estate welcomed its first tenants - and now you can join them! Each of our houses is two stories with an attached garage, ample garden, and an attractive brickwork exterior. Fully furnished and artistically decorated, you'll find security, peace, and happiness in Meadshire Estate. <BR> <MAP:MeadshireEstate,0,250> <BR> <LINE> ",
+
+Print_Media_IrvingtonSpeedway_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <LEFT> Zoom on down to the Irvington Speedway, just west of Irvington! <BR> Races every weekend. We've hosted some of the world's biggest names in car and motorcycle racing. Now, let us host you! <LINE> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> Get a bite at Spiffo's, a drink at our bar, or hang around in our lounge before or after a race. Who knows what famous face might turn up? <BR> Your day will pass by in a blur at the Irvington Speedway! <BR> <MAP:IrvingtonSpeedway,0,450><BR>",
+
+Print_Media_CivilWarfort_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> Whether you're interested in history or just love a good walk, come visit Fort Prospect, soon to be added to the National Register of Historic Places. The fort was originally built by the Union army in 1862 as an earthen fort to protect the ford and ferry across the Ohio. <BR> Fort Prospect was soon abandoned as it seemed that the Civil War would never come near the fort although ironically, the infamous Morgan's Raiders passed by the fort in 1863, and could have been stopped had the fort been manned. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/fort1.png> <LINE> The Union army returned to the fort in 1864, building a wooden fort, and the current stone brick fort was constructed by the US Army Corp of Engineers in 1918. The fort was abandoned for good in 1923, and its personnel transferred to Fort Knox. The fort remains in great condition, and now houses our museum about the history of Kentucky. <BR> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> Entry to the museum is FREE for under-16s, seniors, and veterans, and $2 for everyone else. Guided tours take place at 11am, 2am, and 4am daily, dependent on visitor numbers. Call us on 555-4833 to book your place! <BR> <MAP:CivilWarfort,0,250> <BR> <LINE> ",
+
+Print_Media_GreenesJobAdEkron_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:0.2,0.5,0.2> Good honest worker needed for Greene's in Ekron. <BR> No sticky-fingered, sassy teenagers need apply. $5 per hour. Some overtime will be expected. <BR> Training on stocktaking and working the register will be provided if necessary. <BR> <MAP:GreenesJobAdEkron,0,200><BR>",
+
+Print_Media_MailCarrierAdEkron_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> The US Mail Service is looking for a MAIL CARRIER in the EKRON and IRVINGTON areas. <BR> Knowledge of locality highly preferred but training provided. Full drivers license required. The successful candidate will be friendly, patient, polite, and have a good attention to detail. <BR> Send resumes to US MAIL, 276 PIECE AVENUE, EKRON, KY40711 <BR> <MAP:MailCarrierAdEkron,0,200><BR>",
+
+Print_Media_PremiseswithApartmentsforLeaselistingno891_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.891 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house891.png> <LINE> <H1> Spacious restaurant with two second floor apartments for rent, together or separately, in central Irvington. Both in need of renovation but have huge potential. <BR> Restaurant comes with fittings including two cookers. Apartments perfect for expert carpenters or DIY handymen. With a little elbow grease, this property could easily turn a great profit. <BR> <MAP:PremiseswithApartmentsforLeaselistingno891,0,200><BR> Call us on 555-9029.",
+
+Print_Media_HouseforSalelistingno907_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.907 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house907.png> <LINE> <H1> Cozy bungalow with a generous garden, in northern Muldraugh. Kitchen is in need of slight renovation. Quiet, relaxing location. The perfect home for a loving couple to make memories that will last a lifetime! <BR> <MAP:HouseforSalelistingno907,0,200><BR> Call us on 555-9029.",
+
+Print_Media_YourLocalShelterBrandenburg_info = "<H1> <RGB:1,0,0> YOUR LOCAL SHELTER - KEEP THIS FLYER SAFE <BR> <H2> In the event of an emergency including, but not limited to, extreme weather events, enemy invasions, and earthquakes or other natural disasters, it is imperative you know where your closest public shelter is. Please carefully read the following local information, and tune in to local media for more up-to-date information if an emergency occurs. <BR> NEAREST SHELTER: Central Brandenburg <BR> <MAP:YourLocalShelterBrandenburg,0,150> <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/shelter1.png> <LINE> COMFORTABLE CAPACITY: 60<LINE>MAXIMUM CAPACITY: 120. <BR> LONG TERM OR TEMPORARY: Temporary",
+
+Print_Media_BrandenburgAirfield_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <MAP:BrandenburgAirfield,0,500><LINE> <H1> <RGB:0.9,0.9,0.9> Looking for a perfect anniversary or birthday gift? Want to feel a thrill of adrenaline like nothing else? Book some flying lessons or a skydive at our airfield - today! <BR> <IMAGECENTRE:media/textures/printMedia/400x200.png> <LINE> With professional instructors and a pair of well maintained small planes, we cater to everyone from nervous first timers to Ace Pilots! <BR> Call 555-FLYN for prices and bookings. <BR> ",
+
+Print_Media_HouseforSale912_title = "House for Sale (listing no. 912)",
+
+Print_Media_HouseforSale912_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.912 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house912.png> <LINE> <H1> Compact bungalow with a high surrounding fence for utmost privacy. This location provides the perfect balance between solitude and practicality, with Muldraugh within easy walking distance, and a surrounding forest perfect for nature lovers. <BR> <MAP:HouseforSale912,0,200><BR> Call us on 555-9029.",
+
+Print_Media_HouseforSale915_title = "House for Sale (listing no. 915)",
+
+Print_Media_HouseforSale915_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.915 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house915.png> <LINE> <H1> Two story house in incredible location beside the Ohio river west of West Point. Three bedrooms, two bathrooms. Beautiful stone and brick exterior. Just across the road from a stunning lake, perfect for fishing, or just a calming walk. <BR> <MAP:HouseforSale915,0,200><BR> Call us on 555-9029.",
+
+Print_Media_HouseforSale943_title = "House for Sale (listing no. 943)",
+
+Print_Media_HouseforSale943_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.943 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house943.png> <LINE> <H1> Colorful bungalow just north of Rosewood, with three acres of land and farm animal facilities at no extra cost. Quiet, rural location. Perfect for a small scale farmer who likes a slower life. <BR> <MAP:HouseforSale943,0,200><BR> Call us on 555-9029.",
+
+Print_Media_HouseforSale930_title = "House for Sale (listing no. 930)",
+
+Print_Media_HouseforSale930_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.930 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house930.png> <LINE> <H1> Charming, spacious two story dwelling with communal garden, just a minute's drive from Riverside. Help your neighbors with their crops and share in their harvest, or simply stick to your own private plot beside your house - it's up to you! The perfect location for both dabbling gardeners and adept farmers. <BR> <MAP:HouseforSale930,0,200><BR> Call us on 555-9029.",
+
+Print_Media_HouseforSale929_title = "House for Sale (listing no. 929)",
+
+Print_Media_HouseforSale929_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.929 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house929.png> <LINE> <H1> Unfurnished home in extremely secure location. Located just west of central Rosewood between a forest and an array of stores, this dwelling is the perfect location for those who want to be surrounded by nature without sacrificing convenience. Apply quickly - this listing is sure to be snapped up! <BR> <MAP:HouseforSale929,0,200><BR> Call us on 555-9029.",
+
+Print_Media_HouseforSale919_title = "House for Sale (listing no. 919)",
+
+Print_Media_HouseforSale919_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.919 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house919.png> <LINE> <H1> Find your forever home just north of Ekron. Located at the end of a private lane and situated in a picturesque rural setting, this spacious, two story property includes a generous garden. A perfect location for a large family. <BR> <MAP:HouseforSale919,0,150><BR> Call us on 555-9029.",
+
+Print_Media_LeafhillHeights_title = "Leafhill Heights Offices",
+
+Print_Media_LeafhillHeights_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:1,1,0.3> Looking for world class office space? Try Leafhill Heights.  <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/leafhill1.png> <LINE> <H1> <LEFT> <RGB:1,1,0.3> Located just south of Louisville, Leafhill Heights houses companies worth tens of millions of dollars. With world class infrastructure, a constant stream of highly trained LSU graduates, and space to suit every need, we're the base you need in a constantly shifting world. <BR> From software to finance, from academia to industry, you'll find the space to grow at Leafhill Heights. <BR> <MAP:LeafhillHeights,0,200><LINE><CENTRE> Contact us on 555-LEAFHILL. ",
+
+Print_Media_AmericanTire_title = "American Tire",
+
+Print_Media_AmericanTire_info = "<IMAGECENTRE:media/textures/printMedia/AmericanTire.png> <LINE> <H1> <RGB:1,1,1> Tires you'll never get tired of. <BR> <H2> <RGB:1,1,1> The experts at American Tire take 17 pounds of rubber, and turn it into a skid-free, aerodynamically optimized masterpiece. The latest traction-based vulcanization technology makes driving a dream. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/americantire1.png> <LINE> Save fuel and keep on the road thanks to our expertise. Cars fitted with American Tires are 6% less likely to be involved in fatal accidents*. Drive coast-to-coast, fitted with the best. <BR> World class tires, since 1928. <BR> Show this flyer at American Tire to get 4 tires for the price of 3**. <BR> <MAP:AmericanTire,0,200><LINE> <TEXT> <RGB:1,1,1> *out of a sample of 32 incidents, excludes pedestrian deaths <LINE> **one set per customer, offer ends 6/31/93",
+
+Print_Media_FarmingAndRuralSupplyDoeValley_title = "Farming and Rural Supply (Doe Valley)",
+
+Print_Media_FarmingAndRuralSupplyDoeValley_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:1,1,1> Seeds, tools, hard-wearing clothes, firearms - you'll find it all at Farming and Rural Supply. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/frs1.png> <LINE> We're trusted by local farmers, gardeners, and hunters. If it's for growing, harvesting, or killing, you'll find it here! <BR>  We can even give you some expert advice on any of our tools. Just ask! <BR> Show us this flyer for a free packet of vegetable seeds (one per customer). <BR> <MAP:FarmingAndRuralSupplyDoeValley,0,200><BR>",
+
+Print_Media_LennysCarRepair_title = "Lenny's Car Repair",
+
+Print_Media_LennysCarRepair_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:1,1,1>  Need a quick fix, or something a bit more serious? Come on down to Lenny! <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/lennys1.png> <LINE> <H2> <RGB:1,1,1>  From a busted tail light to a whole new engine block, from Chevaliers to Mercias, Lenny can do it all! <BR> Reliable and affordable, with over thirty years of mechanical experience. <BR> Present this flyer and get 5% off your next service! <BR> <MAP:LennysCarRepair,0,400><BR>",
+
+Print_Media_CarFixation_title = "Car Fix-ation",
+
+Print_Media_CarFixation_info = "<IMAGECENTRE:media/textures/printMedia/CarFixation.png> <LINE> <IMAGECENTRE:media/textures/printMedia/400x400.png> <LINE> <H1> <RGB:0.2,0.2,1> Book an appointment today and see why Car Fix-ation was voted Louisville's favorite car repair shop of 1992! <BR> <LEFT> Our services include: <BR> - Servicing <LINE> - Brake pads and discs  <LINE> - Suspension  <LINE> - General engine repairs  <LINE> - Windows  <LINE> - Electronics <LINE> - Gearboxes <LINE> - and more! <BR> Give this flyer to one of our workers for a free oil change*. <BR> <MAP:CarFixation,0,400> <BR> <TEXT> <RGB:0.2,0.2,1> *compact cars only, offer valid til 7/8/93 ",
+
+Print_Media_AlsAutoShop_title = "Al's Auto Shop",
+
+Print_Media_AlsAutoShop_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/als1.png> <LINE> <H2> <RGB:0.1,0.3,0.5> Great car care at great low prices. <BR> Oil changed, brakes fixed, tires repaired. If it's attached to a car and can go wrong, Al can fix it. <BR> Show Al this flyer for 10% off an annual service. <BR> Find us southwest of Riverside. <BR> <MAP:AlsAutoShop,0,400><BR>",
+
+Print_Media_NailsAndNuts_title = "Nails & Nuts",
+
+Print_Media_NailsAndNuts_info = "<IMAGECENTRE:media/textures/printMedia/NailsandNuts.png> <LINE> <H1> <RGB:0.69,0.52,0.3> <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/nailsandnuts1.png> <LINE> <LEFT> Do it yourself with the help of Nails & Nuts!  We're well stocked with hammers, screwdrivers, saws, and every other tool you could need. <BR> Look stylish while you work in our selection of work clothes. Try your hand at farming with our range of seeds, animal feed, and farm equipment. <BR> Find us in central Riverside. Present this flyer in-store for a free high-visibility vest! <LINE> <MAP:NailsAndNuts,0,400><LINE> <H1> <RGB:0.69,0.52,0.3> Don't delay - visit us today!",	
+
+Print_Media_WPDIY_title = "West Point DIY",
+
+Print_Media_WPDIY_info = "<H1> WEST POINT DIY <LINE> <H1> <LEFT> West Point DIY makes doing it yourself the easy option! <BR>  From saws and hammers, to seeds and watering cans, from coveralls and cement to nails and metal sheets, we provide many of West Point's finest workmen (and women!) with the materials they need to make their dream projects a reality. <BR> Find us opposite Seahorse Coffee, beside the Food Market. <BR> Show this flyer in-store for a free box of nails*. <BR> *one per customer <BR> <MAP:WPDIY,0,200><BR>",
+
+Print_Media_EPToolsLV_title = "E.P. Tools (Louisville)",
+
+Print_Media_EPToolsLV_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:1,1,1> "There's nowhere finer to buy some pliers and a screwdriver." - Sam Graham, Metalheads <BR> "I always get my nails from E.P. They're sharp, and never break." - Hans Jorgensen, Jorgensen and Sons Carpentry <BR> "I started my farm with some seeds and a shovel from E.P." - Franklin Jones, CEO of Kentucky Farm Corp. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/ep1.png> <LINE> <BR> With those kind of endorsements, we don't need to say more! <BR> E.P. Tools. For everything you need, and some things you don't. <BR> Show us this flyer for 10% off of any tool*! <BR> <MAP:EPToolsLV,0,200><BR> <TEXT><RGB:1,1,1> *Non-electric hand tools only.",
+
+Print_Media_RosewoodFD_title = "Rosewood Fire Department",
+
+Print_Media_RosewoodFD_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:0.9,0.8,0.4> HOME FIRE SAFETY TIPS FROM ROSEWOOD FIRE DEPARTMENT <BR> - DO install and routinely check smoke detectors <LINE> - DO have a fire extinguisher and blanket in easy reach of your kitchen <LINE> - DO dial 911 if a fire breaks out and you can't easily control it <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/rosewoodfd2.png> <LINE> - DON'T use water on oil or electrical fires <LINE> - DON'T forget to have an evacuation plan from your home <LINE> - DON'T smoke in bed <BR> REMEMBER - IF A FIRE GETS OUT OF CONTROL, CALL 911 AND EVACUATE THE BUILDING IMMEDIATELY. <BR> <H1> <RGB:0.9,0.8,0.4> OUR LOCATION <BR> <MAP:RosewoodFD,0,200><BR>",
+
+Print_Media_BrandenburgFD_title = "Brandenburg Fire Department",
+
+Print_Media_BrandenburgFD_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:1,1,1> FREE FIRE SAFETY SEMINAR <BR> July 1, at Brandenburg Fire Department. <BR> <H2> <RGB:1,1,1> Fire Chief Neil Smith will show how fires start and spread, how smoke can easily overcome you, and how to make sure you and your family are safe. <BR> Each attendee will receive a FREE smoke detector. <BR> We're not exaggerating when we say your life might depend on it! <BR> <MAP:BrandenburgFD,0,400> <BR>",
+
+Print_Media_LVFD_title = "Louisville Fire Department",
+
+Print_Media_LVFD_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:1,1,1> LOUISVILLE FIRE DEPARTMENT PUBLIC DEMONSTRATION <BR> <H2> <RGB:1,1,1> Join Louisville Fire Department on June 28 as we demonstrate the tactics we use to fight fires, rescue those in need, and keep our fine city from burning to the ground! <BR> You'll hear us talk about... <LINE> - The tools and methods we use to break into burning buildings  <LINE> - How water pressure works, and the importance of keeping fire hydrants clear  <LINE> - Air pressure and the risk of explosion  <LINE> - An overview and history of vehicles used in firefighting <BR> You'll even get to try and pass one of our fitness courses. Be warned - it won't be easy! <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/lvfd1.png> <LINE> <H1> <RGB:1,1,1> See you there! <BR> <MAP:LVFD,0,200><BR>",
+
+Print_Media_MuldraughPD_title = "Muldraugh Police",
+
+Print_Media_MuldraughPD_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:1,1,1> COMMUNITY CRIME WATCHERS MEETING <BR> June 16 @ 9PM, Muldraugh Police Department <BR> All welcome to join our public meeting on crime in the Muldraugh area. Our agenda includes: <LINE> - Updates on the Cortman Medical drug thefts  <LINE> - The theft of Mr. Krant's Chevalier Dart  <LINE> - Illegal dumping by Route 31W <LINE> - Reports of narcotics dealing <BR> Learn how YOU can protect your home from burglars, your rights concerning firearm ownership, and what you should and shouldn't do to stop a crime in progress. <BR> CRIME - keep your eyes open for it. <BR> <MAP:MuldraughPD,0,300><BR>",
+
+Print_Media_LVPDHQ_title = "Louisville Police Headquarters",
+
+Print_Media_LVPDHQ_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H1> <RGB:0,0,0.7> PUBLIC SEMINAR ON DRUGS AT LOUISVILLE POLICE HEADQUARTERS <BR> <H2> <RGB:0,0,0.7> July 5 1993, 7pm <BR> Learn about the dangers of drug addiction, common gateway drugs among our young and vulnerable residents, and the insidious ways that crime gangs exploit the vulnerable. <BR> Chief Graham will display a range of drugs seized from the streets of Louisville, and demonstrate how drug culture is not just a problem of the poor. <BR> Doctor Tara Handel will speak about her experiences with drug addicts and other substance abusers, along with her own struggles, and how there's always help and hope, if it's wanted. <BR> The Kentucky Herald's John Barrister will take us behind the scenes of some of the more lurid drug-related crimes in our fair city. <BR> <H1> <RGB:0,0,0.7> ALL WELCOME <BR> <MAP:LVPDHQ,0,200><BR>",
+
+Print_Media_RiversidePD_title = "Riverside Firearms Demonstration",
+
+Print_Media_RiversidePD_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <H2> <RGB:1,1,1> MEADE COUNTY POLICE DEPARTMENT <BR> A firearms safety demonstration will be held at our Riverside building on July 3 at 6pm. <BR> Learn the importance of trigger discipline, why a shotgun is less dangerous at range than a rifle, the difference between semi- and fully-automatic, and how to make sure of your targets before firing. <BR> Set your sights on this demonstration. You won't want to miss it! <BR> <MAP:RiversidePD,0,400><BR>",
+
+Print_Media_HouseforSale845_title = "House and Land for Sale (listing no. 845)",
+
+Print_Media_HouseforSale845_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.845 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house845.png> <LINE> <H1> Well maintained two-story house with ten acres of farmland, along with outbuildings, chicken coop, and a private well. This dwelling simply radiates rustic charm - a perfect forever home for a farming family! <BR> Call us on 555-9029. <BR> <MAP:HouseforSale845,0,200><BR>",
+
+Print_Media_HouseforSale851_title = "House for Sale (listing no. 851)",
+
+Print_Media_HouseforSale851_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.851 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house851.png> <LINE> <H1> A self-sustaining, sturdy farmhouse with attached farmland of 12 acres. Features facilities for cattle, chicken, and more! Perfectly located, equidistant from Muldraugh, Rosewood, and Doe Valley. A farmer's dream! <BR> Call us on 555-9029. <BR> <MAP:HouseforSale851,0,200><BR>",
+
+Print_Media_HouseforSale855_title = "House for Sale (listing no. 855)",
+
+Print_Media_HouseforSale855_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.855 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house855.png> <LINE> <H1> Compact, cosy bungalow located just west of Riverside, and just south of the mighty Ohio river. Includes garage and toolshed. The perfect spot for long walks by the river! <BR> Call us on 555-9029. <BR> <MAP:HouseforSale855,0,200> <BR>",
+
+Print_Media_HouseforSale860_title = "House for Sale (listing no. 860)",
+
+Print_Media_HouseforSale860_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.860 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house860.png> <LINE> <H1> Centrally located in a friendly, quiet neighborhood in Muldraugh, with a high fence for privacy, the wonderfully decorated two-story interior has to be seen to be appreciated! <BR> Call us on 555-9029. <BR> <MAP:HouseforSale860,0,200> <BR>",
+
+Print_Media_PremisesforLease863_title = "Premises for Lease (listing no. 863)",
+
+Print_Media_PremisesforLease863_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.863 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house863.png> <LINE> <H1> Spacious office space for rent in sought-after central location in West Point. All of West Point's amenities are within walking distance - this is one sure to be snapped up so get in touch today! <BR> Call us on 555-9029. <BR> <MAP:PremisesforLease863,0,200> <BR>",
+
+Print_Media_HouseforSale867_title = "House for Sale (listing no. 867)",
+
+Print_Media_HouseforSale867_info = "<IMAGECENTRE:media/textures/printMedia/HomewardRealEstate.png> <LINE> <H1> Listing No.867 <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/house867.png> <LINE> <H1> Ideally located for farmers or nature lovers, this two-story property offers plenty of space for children and animals. Watch the world go by from the porch, mint julep in hand! <BR> Call us on 555-9029. <BR> <MAP:HouseforSale867,0,200> <BR>",
+
+Print_Media_CabinforRentDixie_title = "Cabin for Rent (Dixie)",
+
+Print_Media_CabinforRentDixie_info = "<H1> <RGB:0,0,0.5> CABIN FOR RENT IN DIXIE <BR> <LEFT> Just north of Muldraugh railyard. Outdoor facilities. No litterbugs need apply. <BR> Call Zip on 555-6932. <BR> <MAP:CabinforRentDixie,0,300><BR>",
+
+Print_Media_WPTownHall_title = "West Point Town Hall",
+
+Print_Media_WPTownHall_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <IMAGECENTRE:media/textures/printMedia/FlyerPics/wpmayor1.png> <LINE>  <H2> "Hello there! I'm Richard Rosenwald, Mayor of West Point, the small town with the big heart. You may not realise it, but our town hall is always available to help residents, no matter their issue." <BR> "Democracy works best when it's open, and we're always open for you!" "Need some help with local laws? Want advice on permits, or your rights and responsibilities as an American citizen?" <BR> "Come see me in person using the map below, or call my office on 555-2100." <BR> <MAP:WPTownHall,0,400> <BR>",
+
+Print_Media_DinerInTheWoods_title = "Diner in the Woods",
+
+Print_Media_DinerInTheWoods_info = "<H1> <RGB:1,1,0.5> DINER IN THE WOODS <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/ditw1.png> <LINE> <H2> <RGB:1,1,0.5> We are now open, April thru September, in the woods off the walking trail south of West Point. <BR> Fine meals, hot and cold, will give you the energy boost you need for hiking, or reward you for getting here in the first place. <BR> Present this flyer at the diner for a free bottle of water. <BR> <MAP:DinerInTheWoods,0,200><BR>",
+
+Print_Media_FallasLakeChurch_title = "Fallas Lake Church",
+
+Print_Media_FallasLakeChurch_info = "",
+
+Print_Media_OldCGECorpBuilding_title = "Old CGE Corp Building",
+
+Print_Media_OldCGECorpBuilding_info = "<IMAGECENTRE:media/textures/printMedia/600x200.png> <LINE> <CENTRE><H1>PRESERVE OUR HERITAGE! <BR> <H2> Word has reached us that the state government is planning to <RGB:1,0,0> <SPACE> DEMOLISH <SPACE> <RGB:0,0,0> the old CGE Corp building. We cannot allow this to happen! <BR> The architecture, including the unusual skybridge between the main building and the old storage building, make this a unique part of Kentucky history. <BR> <IMAGECENTRE:media/textures/printMedia/FlyerPics/cge1.png> <LINE> CGE provided dozens of manufacturing jobs from 1961-1980, and the building should be turned into a museum to preserve this important part of Kentucky history. <BR> <H1> <CENTRE> <RGB:1,0,0> PLEASE PASS ALONG THIS FLYER AND CONTACT YOUR LOCAL REPRESENTATIVES ABOUT THIS IMPORTANT ISSUE! <BR> <MAP:OldCGECorpBuilding,0,200><BR>",
+
+Print_Media_RustyRifle_title = "The Rusty Rifle",
+
+Print_Media_RustyRifle_info22 = "<type:text, x:200, y:50, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, font:UIFont.SdfBold>RUSTY RIFLE"..
+"<type:text, x:40, y:355, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, font:UIFont.SdfBold>EVERY FRIDAY"..
+"<type:text, x:40, y:385, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, font:UIFont.SdfRegular>LOCAL BAND "THE BANJO BOYS"^EXTRA LARGE SHOTS^10% OFF YOUR FIRST THREE BEERS"..
+"<type:text, x:40, y:480, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, font:UIFont.SdfBold>DON'T MISS OUT"..
+"<type:texture, texture:getText("media/ui/printMedia/spiffoTEST.png"), x:200, y:228, width:280, height:280, pivotX:0.5, pivotY:0.5>"..
+"<type:map, x:5, y:140, width:100, height:150, mapID:"RustyRifle">",
+
+Print_Media_RustyRifle_info = "<type:parent, width:960, height:670>"..
+"<type:texture, width:960, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:220, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:5, y:75, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>OFICINA COMARCAL AGRARIA XXXXX^XXXXXXXXX, del 27 al 29 de octubre 1994^^Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:220, y:325, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:30, y:370, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:5, y:550, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam."..
+"<type:text, x:610, y:160, r:0, g:0, b:0, a:0.9, scaleX:0.7, scaleY:0.7, textLeading:-6, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRegular>CURSO SOBRE EL maejo y^      cuidaos del caballo"..
+"<type:text, x:580, y:610, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-6, font:UIFont.SdfRegular>    OFICINA COMARCAL AGRARIA XXXXX^XXXXXXXXX, del 27 al 29 de octubre 1994"..
+"<type:text, x:800, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:800, y:60, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.4, scaleY:0.4, textTracking:-2, font:UIFont.SdfBoldItalic>       CONEJERIA DEL AGUA DE LA PESCA Y DE LOS^SPEEDYGONZALES DE LOS CARIOCAS DE LA SIERRA^                                         DEL MUNDO"..
+"<type:texture, texture:getText("media/ui/printMedia/DingoChildTest.png"), x:490, y:3, width:150, height:110>"..
+"<type:texture, texture:getText("media/ui/printMedia/clownTEST.png"), x:610, y:236, width:260, height:367>"..,
+
+}

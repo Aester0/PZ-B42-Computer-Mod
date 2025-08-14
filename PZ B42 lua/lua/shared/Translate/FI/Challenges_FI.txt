@@ -1,0 +1,74 @@
+Challenge_FI = {
+    Challenge_YouHaveOneDay_name = "Sinulla on yksi pÃ¤ivÃ¤",
+	Challenge_YouHaveOneDay_desc = "Olet taas Knox Countyssa. Olet takaisin kartalla, missÃ¤ Project Zomboid -infektio alkoi. <LINE> <LINE> Sinulla on yksi pÃ¤ivÃ¤ suhteellisen turvassa. Zombeja saapuu valtavia mÃ¤Ã¤riÃ¤, ja he lÃ¶ytÃ¤vÃ¤t sinut. MissÃ¤ kÃ¤ytit, kun nostit viimeisen asennon uudelleen? MissÃ¤ teit viimeisen kantasi vanhaan aikaan? Parempi lÃ¶ytÃ¤Ã¤ se nopeasti. <LINE> <LINE> [Our thanks to Community mapper BobHeckling for recreating the old 0.1.5 map with the current PZ toolset.]",
+
+    Challenge_WinterIsComing_name = "Talvi on tulossa",
+	Challenge_WinterIsComing_desc = "On heinÃ¤kuun puolivÃ¤li, mutta yhtÃ¤kkiÃ¤ tuulessa on kylmÃ¤. Vain kolmen pÃ¤ivÃ¤n kuluttua tulee talvi, jollaista ei ole ennen sitÃ¤. <LINE> <LINE> Olet hereillÃ¤ syrjÃ¤isessÃ¤ paikassa Varastot ovat niukat, ja kova kylmÃ¤ saattaa hidastaa epÃ¤kuolleiden laumojen toimintaa â€“ mutta ne eivÃ¤t ole yhtÃ¤ tappavia. <LINE> <LINE> Pukeudu lÃ¤mpimÃ¤sti, selviytyjÃ¤...",
+
+	Challenge_OpeningHours_name = "Avoin ajat",
+    Challenge_OpeningHours_desc = "Mall on ympÃ¤rÃ¶ity. Se oli kerran tÃ¤rkeÃ¤ paikka heidÃ¤n elÃ¤mÃ¤ssÃ¤Ã¤n. Vaisto on johtanut heidÃ¤t ovilleen. Muisto siitÃ¤, mitÃ¤ he tekivÃ¤t... <LINE> <LINE> Olet yksin, mutta et kauaa. Klo 9 kauppakeskus on valmis liikenteeseen: ovet avautuvat ja laumat tulevat sisÃ¤Ã¤n. <LINE> <LINE> Ole valmis niihin",
+
+	Challenge_AReallyCDDAy_name = "Todella CD DA",
+	Challenge_AReallyCDDAy_desc = "Tulet ulos suihkusta ja putoat pahasti. Olet sokea humalassa ja sinulla on paha flunssa. <LINE> <LINE> Kaiken tÃ¤mÃ¤n lisÃ¤ksi talo on tulessa! TÃ¤nÃ¤Ã¤n ei todellakaan ole sinun pÃ¤ivÃ¤si. <LINE> <LINE> [A challenge inspired by A Really Bad Day from the awesome, wonderful and MUST-PLAY Cataclysm: Dark Days Ahead] ",
+
+	Challenge_Challenge1_name = "Talo metsÃ¤ssÃ¤ - Viimeinen seisaus",
+	Challenge_Challenge1_desc = "Voit kuulla heidÃ¤n lÃ¤hestyvÃ¤n. Laumoja kuolleita, jotka tunkeutuvat eristettyyn mÃ¶kkiisi joka kulmasta. Kuolema on vÃ¤istÃ¤mÃ¤tÃ¶n, mutta haulikko on lÃ¤hellÃ¤ <LINE> <LINE> Viimeinen Seisaus sisÃ¤ltÃ¤Ã¤ loputtomat zombiaallot jatkuvasti kasvavassa mÃ¤Ã¤rin. Selviydy niin kauan kuin mahdollista ylivoimaisia â€‹â€‹kertoimia vastaan.",
+
+	Challenge_Challenge2_name = "talo metsÃ¤ssÃ¤ - Viimeinen seisaus Akku",
+	Challenge_Challenge2_desc = "Toinen pÃ¤ivÃ¤, toinen mÃ¶kki, joka on valmis vereen. Laumot ovat kimpussasi, ja kuolemasi on yhtÃ¤ tuskallista kuin kauheaakin. Joten mene taistelemaan... <LINE> <LINE> Viimeinen Seisaus â€“ Akku sisÃ¤ltÃ¤Ã¤ loputtomat zombiaallot jatkuvasti kasvavassa mÃ¤Ã¤rin. KÃ¤ytÃ¤ tappamalla zedejÃ¤ ansaittuja rahoja ostaaksesi varusteita, nostaaksesi tasoa ja korjataksesi veren kastelevia aseitasi.",
+
+    Challenge_AStormIsComing_name = "Myrsky on tulossa",
+	Challenge_AStormIsComing_desc = "PilviÃ¤ kerÃ¤Ã¤ntyy Kentuckyn ylle. Kaukaa kuuluu ukkonen rÃ¤tinÃ¤. <LINE> <LINE> Kun taivas pimenee, maan pÃ¤Ã¤lle kompastuneet kuolleet muuttuvat levottomiksi. <LINE> <LINE> This is a storm that will grow and fall back in its ferocity, but it will never end.",
+
+    Challenge_TheDescendingFog_name = "Nouseva Sumu",
+    Challenge_TheDescendingFog_desc = "Ihmiset nÃ¤kivÃ¤t sen ensin vedessÃ¤. Vaalea valkoinen peitto Ohio-joen yllÃ¤. <LINE> <LINE> Se alkoi sumuna. Sitten se peitti kaupungin. Kaupunkilaiset kuolivat huutaen synkkyyteen. Nyt he kÃ¤velevÃ¤t sieltÃ¤ ulos. <LINE> <LINE> NÃ¤kymÃ¤tÃ¶n, kuulematon ja sÃ¤Ã¤limÃ¤tÃ¶n elÃ¤vÃ¤n etsimisessÃ¤",
+
+    Challenge_Kingsmouth_name = "Kuninkaiden suu",
+    Challenge_Kingsmouth_desc = "Nauti rentouttavasta oleskelusta Kuninkaiden suun Islandilla!",
+
+    Challenge_Studio_name = "Studio",
+    Challenge_Studio_desc = "MissÃ¤ kaikki parhaat elokuvat on kuvattu!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Paina "o" pysyvÃ¤Ã¤ lisÃ¤ystÃ¤ ja rahaa.",
+	Challenge_Challenge2_WaveStart = "Aalto %1 in : %2 (paina EnteriÃ¤ ohittaaksesi)",
+	Challenge_Challenge2_WaveDuration = "Aalto %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zombies left : %1",
+	Challenge_Challenge2_Money = "Raha : %1",
+	Challenge_Challenge2_Money2 = "Pelaaja %1 Raha : %2",
+	Challenge_Challenge2_WaveFinished = "Aalto %1 finished in : %2",
+	Challenge_Challenge2_MoneyGained = "rahaa saanti  : %1",
+	Challenge_Challenge2_XPGained = "Kokemuksen saanti : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Viimeinen seisaus",
+	Challenge_Challenge2_TabPlayer = "Pelaaja",
+	Challenge_Challenge2_Weapons = "Aseet",
+	Challenge_Challenge2_TabItems = "Tuotteet",
+	Challenge_Challenge2_TabRepair = "Korjaus",
+	Challenge_Challenge2_CurrentXp = "XP : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+	Challenge_Challenge2_GoldBonus = "Kulta bonus",
+	Challenge_Challenge2_XpBonus = "XP Bonus",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Aloituskulta - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Max Aloituskulta %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Taidot",
+	Challenge_Challenge2_PermanentBonus = "PysyvÃ¤ bonus",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "PuusepÃ¤ntyÃ¶t",
+	Challenge_Challenge2_Health = "Terveys",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Korjaa ase",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Terveys",
+
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Ostoskeskus aukeaa klo 9. <LINE> <LINE> Valmistaudu vÃ¤kijoukkoon...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Kolmen pÃ¤ivÃ¤n pÃ¤Ã¤stÃ¤ alkaa loputon talvi. <LINE> <LINE> Pukeutua lÃ¤mpimÃ¤sti...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 24 tunnin kuluttua matkastasi takaisin Knox Countyyn tulee maapallon helvetti...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE>Loputon huono sÃ¤Ã¤ edessÃ¤...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Alkaa sumua...",
+}

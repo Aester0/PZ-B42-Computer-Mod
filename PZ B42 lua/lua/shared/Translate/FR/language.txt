@@ -1,0 +1,4 @@
+VERSION = 1,
+text = Francais,
+charset = UTF-8,
+azerty = true,
